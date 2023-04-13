@@ -1,0 +1,2679 @@
+non_inclusive_term,inclusive_alternatives,note
+learning disabled,person with learning disabilities,"Refer to the person, rather than the disability, first."
+disabled,"turned off, has a disability, person with a disability, people with disabilities","Refer to the person, rather than the disability, first."
+invalid,"turned off, has a disability, person with a disability, people with disabilities","Refer to the person, rather than the disability, first."
+birth defect,"has a disability, person with a disability, people with disabilities","Assumes/implies that a person with a disability is deficient or inferior to others. When possible, specify the functional ability or its restriction."
+suffers from disabilities,"has a disability, person with a disability, people with disabilities",Assumes that a person with a disability has a reduced quality of life.
+suffering from disabilities,"has a disability, person with a disability, people with disabilities",Assumes that a person with a disability has a reduced quality of life.
+suffering from a disability,"has a disability, person with a disability, people with disabilities",Assumes that a person with a disability has a reduced quality of life.
+afflicted with disabilities,"has a disability, person with a disability, people with disabilities",Assumes that a person with a disability has a reduced quality of life.
+afflicted with a disability,"has a disability, person with a disability, people with disabilities",Assumes that a person with a disability has a reduced quality of life.
+intellectually disabled people,people with intellectual disabilities,"Refer to the person, rather than the disability, first."
+intellectually disabled,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+has intellectual issues,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+suffers from intellectual disabilities,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+suffering from intellectual disabilities,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+suffering from an intellectual disability,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+afflicted with intellectual disabilities,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+afflicted with a intellectual disability,person with an intellectual disability,Assumes that a person with an intellectual disability has a reduced quality of life.
+batshit,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+psycho,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+crazy,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+delirious,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+insane,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+insanity,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+loony,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+lunacy,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+lunatic,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+mentally ill,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+psychopathology,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+mental defective,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+moron,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+moronic,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+nuts,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+mental case,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+mental,"rude, malicious, mean, disgusting, incredible, vile, person with symptoms of mental illness, person with mental illness, person with symptoms of a mental disorder, person with a mental disorder",Describe the behavior or illness without derogatory words.
+insanely,incredibly,Describe the behavior or illness without derogatory words.
+sane,"correct, adequate, sufficient, consistent, valid, coherent, sensible, reasonable","When describing a mathematical or programmatic value, using the word “sane” needlessly invokes the topic of mental health.  Consider using a domain-specific or neutral term instead."
+sanity check,"check, assertion, validation, smoke test","When describing a mathematical or programmatic value, using the phrase “sanity check” needlessly invokes the topic of mental health.  Consider using simply “check”, or a domain-specific or neutral term, instead."
+bipolar,"fluctuating, person with bipolar disorder",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+schizophrenic,person with schizophrenia,Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+schizo,person with schizophrenia,Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+suffers from schizophrenia,person with schizophrenia,Assumes a person with schizophrenia experiences a reduced quality of life.
+suffering from schizophrenia,person with schizophrenia,Assumes a person with schizophrenia experiences a reduced quality of life.
+afflicted with schizophrenia,person with schizophrenia,Assumes a person with schizophrenia experiences a reduced quality of life.
+manic,person with schizophrenia,Assumes a person with schizophrenia experiences a reduced quality of life.
+handicapped parking,accessible parking,
+handicapped,"person with a handicap, accessible","Refer to the person, rather than the disability, first."
+amputee,person with an amputation,"Refer to the person, rather than the condition, first."
+cripple,person with a limp,Refer to the specific disability.
+crippled,person with a limp,Refer to the specific disability.
+gimp,person with a limp,Refer to the specific disability.
+mongoloid,person with Down Syndrome,
+stroke victim,individual who has had a stroke,"Refer to the person, rather than the condition, first."
+suffering from a stroke,individual who has had a stroke,"Refer to the person, rather than the condition, first."
+victim of a stroke,individual who has had a stroke,"Refer to the person, rather than the condition, first."
+suffers from multiple sclerosis,person who has multiple sclerosis,
+suffering from multiple sclerosis,person who has multiple sclerosis,
+victim of multiple sclerosis,person who has multiple sclerosis,
+multiple sclerosis victim,person who has multiple sclerosis,
+afflicted with multiple sclerosis,person who has multiple sclerosis,
+suffers from muscular dystrophy,person who has muscular dystrophy,"Refer to a person's condition as a state, not as an affliction."
+afflicted with muscular dystrophy,person who has muscular dystrophy,"Refer to a person's condition as a state, not as an affliction."
+suffers from MD,person who has muscular dystrophy,"Refer to a person's condition as a state, not as an affliction."
+afflicted with MD,person who has muscular dystrophy,"Refer to a person's condition as a state, not as an affliction."
+family burden,with family support needs,
+asylum,"psychiatric hospital, mental health hospital",
+bedlam,"chaos, hectic, pandemonium",
+madhouse,"chaos, hectic, pandemonium",
+loony bin,"chaos, hectic, pandemonium",
+downs syndrome,Down Syndrome,
+retard,"silly, dullard, person with Down Syndrome, person with developmental disabilities, delay, hold back",
+retarded,"silly, dullard, person with Down Syndrome, person with developmental disabilities, delay, hold back",
+short bus,"silly, dullard, person with Down Syndrome, person with developmental disabilities, delay, hold back",
+retards,"sillies, dullards, people with developmental disabilities, people with Down’s Syndrome, delays, holds back",
+psychotic,"person with a psychotic condition, person with psychosis",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+suffers from psychosis,"person with a psychotic condition, person with psychosis",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+suffering from psychosis,"person with a psychotic condition, person with psychosis",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+afflicted with psychosis,"person with a psychotic condition, person with psychosis",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+victim of psychosis,"person with a psychotic condition, person with psychosis",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+lame,"boring, dull",
+suffering from aids,person with AIDS,
+suffer from aids,person with AIDS,
+suffers from aids,person with AIDS,
+afflicted with aids,person with AIDS,
+victim of aids,person with AIDS,
+aids victim,person with AIDS,
+confined to a wheelchair,uses a wheelchair,
+bound to a wheelchair,uses a wheelchair,
+restricted to a wheelchair,uses a wheelchair,
+wheelchair bound,uses a wheelchair,
+special olympians,"athletes, Special Olympics athletes","When possible, use the exact discipline of sport."
+special olympic athletes,"athletes, Special Olympics athletes","When possible, use the exact discipline of sport."
+ablebodied,non-disabled,Can imply that people with disabilities lack the ability to use their bodies well. Sometimes `typical` can be used.
+addict,"person with a drug addiction, person recovering from a drug addiction",Addiction is a neurobiological disease.
+junkie,"person with a drug addiction, person recovering from a drug addiction",Addiction is a neurobiological disease.
+addicts,"people with a drug addiction, people recovering from a drug addiction",Addiction is a neurobiological disease.
+junkies,"people with a drug addiction, people recovering from a drug addiction",Addiction is a neurobiological disease.
+alcoholic,someone with an alcohol problem,Alcoholism is a neurobiological disease.
+alcohol abuser,someone with an alcohol problem,Alcoholism is a neurobiological disease.
+deaf and dumb,deaf,
+deafmute,deaf,
+demented,person with dementia,
+senile,person with dementia,
+depressed,"sad, blue, bummed out, person with seasonal affective disorder, person with psychotic depression, person with postpartum depression",
+vertically challenged,"person with dwarfism, little person, little people, LP, person of short stature",
+midget,"person with dwarfism, little person, little people, LP, person of short stature",
+small person,"person with dwarfism, little person, little people, LP, person of short stature",
+dwarf,"person with dwarfism, little person, little people, LP, person of short stature",
+dyslexic,person with dyslexia,
+epileptic,person with epilepsy,
+hearing impaired,"hard of hearing, partially deaf, partial hearing loss, deaf","When possible, ask the person what they prefer."
+hearing impairment,"hard of hearing, partially deaf, partial hearing loss, deaf","When possible, ask the person what they prefer."
+infantile paralysis,"polio, person who had polio",
+suffers from polio,"polio, person who had polio",
+suffering from polio,"polio, person who had polio",
+suffering from a polio,"polio, person who had polio",
+afflicted with polio,"polio, person who had polio",
+afflicted with a polio,"polio, person who had polio",
+victim of polio,"polio, person who had polio",
+suffer from an injury,"sustain an injury, receive an injury",
+suffers from an injury,"sustain an injury, receive an injury",
+suffering from an injury,"sustain an injury, receive an injury",
+afflicted with an injury,"sustain an injury, receive an injury",
+victim of an injury,"sustain an injury, receive an injury",
+suffer from injuries,"sustain injuries, receive injuries",
+suffers from injuries,"sustain injuries, receive injuries",
+suffering from injuries,"sustain injuries, receive injuries",
+afflicted with injuries,"sustain injuries, receive injuries",
+victim of injuries,"sustain injuries, receive injuries",
+paraplegic,person with paraplegia,
+quadriplegic,person with quadriplegia,
+spaz,"person with cerebral palsy, twitch, flinch, hectic",
+spastic,"person with cerebral palsy, twitch, flinch",
+stammering,"stuttering, disfluency of speech",
+stutterer,person who stutters,
+tourettes syndrome,Tourette syndrome,
+tourettes disorder,Tourette syndrome,
+rehab center,treatment center,
+detox center,treatment center,
+rehab,treatment,
+detox,treatment,
+sociopath,"person with a personality disorder, person with psychopathic personality",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+sociopaths,"people with psychopathic personalities, people with a personality disorder",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+dumb,"foolish, ludicrous, speechless, silent","Dumb here is used in 2 different contexts , the inability to talk or as a curse word."
+simpleton,"foolish, ludicrous, unintelligent",
+stupid,"foolish, ludicrous, unintelligent",
+wacko,"foolish, ludicrous, unintelligent",
+whacko,"foolish, ludicrous, unintelligent",
+low iq,"foolish, ludicrous, unintelligent",
+panic attack,"fit of terror, scare",
+anorexic,"thin, slim",
+bony,"thin, slim",
+neurotic,"has an anxiety disorder, obsessive, pedantic, niggly, picky",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+ocd,"has an anxiety disorder, obsessive, pedantic, niggly, picky",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+o.c.d,"has an anxiety disorder, obsessive, pedantic, niggly, picky",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+o.c.d.,"has an anxiety disorder, obsessive, pedantic, niggly, picky",Only use terms describing mental illness when referring to a professionally diagnosed medical condition.
+insomnia,"restlessness, sleeplessness",
+insomniac,person who has insomnia,
+insomniacs,people who have insomnia,
+barren,"empty, sterile, infertile",
+blind to,"careless, heartless, indifferent, insensitive",
+blind eye to,"careless, heartless, indifferent, insensitive",
+blinded by,"careless, heartless, indifferent, insensitive",
+deaf to,"careless, heartless, indifferent, insensitive",
+deaf ear to,"careless, heartless, indifferent, insensitive",
+deafened by,"careless, heartless, indifferent, insensitive",
+cretin,"creep, fool",
+daft,"absurd, foolish",
+feebleminded,"foolish, ludicrous, silly",
+feeble minded,"foolish, ludicrous, silly",
+idiot,"foolish, ludicrous, silly",
+imbecile,"foolish, ludicrous, silly",
+harelipped,person with a cleft-lip and palate,"Sometimes it's cleft lip or palate, not both. Specify when possible."
+cleftlipped,person with a cleft-lip and palate,"Sometimes it's cleft lip or palate, not both. Specify when possible."
+harelip,cleft-lip and palate,
+hare lip,cleft-lip and palate,
+maniac,"fanatic, zealot, enthusiast",
+bucktoothed,"person with prominent teeth, prominent teeth",
+buckteeth,"person with prominent teeth, prominent teeth",
+challenged,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+diffability,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+differently abled,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+handicapable,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+special,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+special needs,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+specially abled,"has a disability, person with a disability, people with disabilities",Euphemisms for disabilities can be infantilizing.
+fucktard,"disagreeable, uneducated, ignorant, naive, inconsiderate",
+libtard,"disagreeable, uneducated, ignorant, naive, inconsiderate",
+contard,"disagreeable, uneducated, ignorant, naive, inconsiderate",
+ADD,"disorganized, distracted, energetic, hyperactive, impetuous, impulsive, inattentive, restless, unfocused",
+adhd,"disorganized, distracted, energetic, hyperactive, impetuous, impulsive, inattentive, restless, unfocused",
+a.d.d.,"disorganized, distracted, energetic, hyperactive, impetuous, impulsive, inattentive, restless, unfocused",
+a.d.h.d.,"disorganized, distracted, energetic, hyperactive, impetuous, impulsive, inattentive, restless, unfocused",
+dummyvariable,"test double, placeholder, fake, stub",Dummy can refer to the inability to talk or be used as a derogatory word meaning stupid. In computer programming it is used where a value or behavior is unimportant. There are better alternatives for other use cases also.
+dummyvalue,"test double, placeholder, fake, stub",Dummy can refer to the inability to talk or be used as a derogatory word meaning stupid. In computer programming it is used where a value or behavior is unimportant. There are better alternatives for other use cases also.
+dummyobject,"test double, placeholder, fake, stub",Dummy can refer to the inability to talk or be used as a derogatory word meaning stupid. In computer programming it is used where a value or behavior is unimportant. There are better alternatives for other use cases also.
+dummy,"test double, placeholder, fake, stub",Dummy can refer to the inability to talk or be used as a derogatory word meaning stupid. In computer programming it is used where a value or behavior is unimportant. There are better alternatives for other use cases also.
+binge,"enthusiastic, spree",Binge might be insensitive towards folks with eating or drinking disorders
+obvious,,"Not everything is as obvious as you might think. And if it isn ist obvious to the reader, it can hurt."
+obviously,,"Not everything is as obvious as you might think. And if it isn ist obvious to the reader, it can hurt."
+just,,"Not everything is as easy as you might think. And if it isn ist easy for the reader, it can hurt."
+basically,,"It is probably not that basic. If you isre going to explain a confusing previous sentence with a clearer next sentence, why not drop the former and only use the latter?"
+simple,,"It is probably not that simple. Even if it is, you probably don ist need to specifically say it."
+simply,,"It is probably not that simple. Even if it is, you probably don ist need to specifically say it."
+easy,,"It is probably not that easy. Even if it is, you probably don ist need to specifically say it."
+easily,,"It is probably not that easy. Even if it is, you probably don ist need to specifically say it."
+of course,,"If it is self-evident then maybe you don ist need to describe it. If it isn ist, don ist say it."
+clearly,,"If it is self-evident then maybe you don ist need to describe it. If it isn ist, don ist say it."
+everyone knows,,"If it is self-evident then maybe you don ist need to describe it. If it isn ist, don ist say it."
+straight forward,,"It is probably not that straight forward. Even if it is, you probably don ist need to specifically say it."
+straightforward,,"It is probably not that straight forward. Even if it is, you probably don ist need to specifically say it."
+straight forwardly,,"It is probably not that straight forward. Even if it is, you probably don ist need to specifically say it."
+straightforwardly,,"It is probably not that straight forward. Even if it is, you probably don ist need to specifically say it."
+her,"their, theirs, them",
+hers,"their, theirs, them",
+him,"their, theirs, them",
+his,"their, theirs, them",
+she,"they, it",
+he,"they, it",
+she'd,"they, it",
+he'd,"they, it",
+she'll,"they, it",
+he'll,"they, it",
+she's,"they, it",
+he's,"they, it",
+herself,"themselves, theirself, self",
+himself,"themselves, theirself, self",
+girl,"kid, child, youth",
+boy,"kid, child, youth",
+women,"people, persons, folks",
+girls,"people, persons, folks",
+gals,"people, persons, folks",
+ladies,"people, persons, folks",
+man,"people, persons, folks",
+boys,"people, persons, folks",
+men,"people, persons, folks",
+guys,"people, persons, folks",
+dudes,"people, persons, folks",
+gents,"people, persons, folks",
+gentlemen,"people, persons, folks",
+woman,"person, friend, pal, folk, individual",
+gal,"person, friend, pal, folk, individual",
+lady,"person, friend, pal, folk, individual",
+babe,"person, friend, pal, folk, individual",
+bimbo,"person, friend, pal, folk, individual",
+chick,"person, friend, pal, folk, individual",
+guy,"person, friend, pal, folk, individual",
+lad,"person, friend, pal, folk, individual",
+fellow,"person, friend, pal, folk, individual",
+dude,"person, friend, pal, folk, individual",
+bro,"person, friend, pal, folk, individual",
+gentleman,"person, friend, pal, folk, individual",
+motherland,"native land, homeland",
+fatherland,"native land, homeland",
+mother tongue,"native tongue, native language",
+father tongue,"native tongue, native language",
+freshwomen,"first-year students, freshers",
+freshmen,"first-year students, freshers",
+garbagewoman,"garbage collector, waste collector, trash collector",
+garbageman,"garbage collector, waste collector, trash collector",
+garbagewomen,"garbage collectors, waste collectors, trash collectors",
+garbagemen,"garbage collectors, waste collectors, trash collectors",
+chairwoman,"chair, head, chairperson, coordinator, committee head, moderator, presiding officer",
+chairman,"chair, head, chairperson, coordinator, committee head, moderator, presiding officer",
+committee woman,committee member,
+committee man,committee member,
+cowgirl,cowhand,
+cowboy,cowhand,
+cowgirls,cowhands,
+cowboys,cowhands,
+cattlewoman,cattle rancher,
+cattleman,cattle rancher,
+cattlewomen,cattle ranchers,
+cattlemen,cattle ranchers,
+chairwomen,"chairs, chairpersons, coordinators",
+chairmen,"chairs, chairpersons, coordinators",
+postwoman,"mail carrier, letter carrier, postal worker",
+mailwoman,"mail carrier, letter carrier, postal worker",
+postman,"mail carrier, letter carrier, postal worker",
+mailman,"mail carrier, letter carrier, postal worker",
+postwomen,"mail carriers, letter carriers, postal workers",
+mailwomen,"mail carriers, letter carriers, postal workers",
+postmen,"mail carriers, letter carriers, postal workers",
+mailmen,"mail carriers, letter carriers, postal workers",
+policewoman,"officer, police officer",
+policeman,"officer, police officer",
+chick cop,"officer, police officer",
+policewomen,"officers, police officers",
+policemen,"officers, police officers",
+stewardess,flight attendant,
+steward,flight attendant,
+stewardesses,flight attendants,
+stewards,flight attendants,
+congresswoman,"member of congress, congress person, legislator, representative",
+congressman,"member of congress, congress person, legislator, representative",
+congresswomen,"members of congress, congress persons, legislators, representatives",
+congressmen,"members of congress, congress persons, legislators, representatives",
+firewoman,"fire fighter, fire officer",
+fireman,"fire fighter, fire officer",
+firewomen,fire fighters,
+firemen,fire fighters,
+fisherwoman,"fisher, crew member, fisherfolk, angler",
+fisherman,"fisher, crew member, fisherfolk, angler",
+fisherwomen,fishers,
+fishermen,fishers,
+sisterhood,"kinship, community",
+brotherhood,"kinship, community",
+common girl,"common person, average person",
+common man,"common person, average person",
+businesswoman,"business executive, entrepreneur, business person, professional",
+salarywoman,"business executive, entrepreneur, business person, professional",
+businessman,"business executive, entrepreneur, business person, professional",
+salaryman,"business executive, entrepreneur, business person, professional",
+businesswomen,"business executives, entrepreneurs",
+salarywomen,"business executives, entrepreneurs",
+career girl,"business executives, entrepreneurs",
+career woman,"business executives, entrepreneurs",
+businessmen,"business executives, entrepreneurs",
+salarymen,"business executives, entrepreneurs",
+cleaning lady,cleaner,
+cleaning girl,cleaner,
+cleaning woman,cleaner,
+janitress,cleaner,
+cleaning man,cleaner,
+cleaning boy,cleaner,
+janitor,cleaner,
+cleaning ladies,"cleaners, housekeeping",
+cleaning girls,"cleaners, housekeeping",
+janitresses,"cleaners, housekeeping",
+cleaning men,"cleaners, housekeeping",
+janitors,"cleaners, housekeeping",
+delivery girl,"courier, messenger",
+delivery boy,"courier, messenger",
+forewoman,"supervisor, shift boss",
+foreman,"supervisor, shift boss",
+"frontwoman, front woman","lead, front, figurehead",
+"frontman, front man","lead, front, figurehead",
+"front women, frontwomen",figureheads,
+"front men, frontmen",figureheads,
+forewomen,"supervisors, shift bosses",
+foremen,"supervisors, shift bosses",
+insurance woman,insurance agent,
+insurance man,insurance agent,
+insurance women,insurance agents,
+insurance men,insurance agents,
+landlady,"proprietor, building manager",
+landlord,"proprietor, building manager",
+landladies,"proprietors, building managers",
+landlords,"proprietors, building managers",
+alumna,graduate,
+alumnus,graduate,
+alumnae,graduates,
+alumni,graduates,
+newswoman,"anchor, journalist",
+newspaperwoman,"anchor, journalist",
+anchorwoman,"anchor, journalist",
+newsman,"anchor, journalist",
+newspaperman,"anchor, journalist",
+anchorman,"anchor, journalist",
+newswomen,"anchors, journalists",
+newspaperwomen,"anchors, journalists",
+anchorwomen,"anchors, journalists",
+newsmen,"anchors, journalists",
+newspapermen,"anchors, journalists",
+anchormen,"anchors, journalists",
+repairwoman,"repairer, technician",
+repairman,"repairer, technician",
+repairwomen,technicians,
+repairmen,technicians,
+saleswoman,"salesperson, sales clerk, sales rep, sales agent, sales attendant, seller, shop assistant",
+sales woman,"salesperson, sales clerk, sales rep, sales agent, sales attendant, seller, shop assistant",
+saleslady,"salesperson, sales clerk, sales rep, sales agent, sales attendant, seller, shop assistant",
+salesman,"salesperson, sales clerk, sales rep, sales agent, sales attendant, seller, shop assistant",
+sales man,"salesperson, sales clerk, sales rep, sales agent, sales attendant, seller, shop assistant",
+saleswomen,"sales clerks, sales reps, sales agents, sellers",
+sales women,"sales clerks, sales reps, sales agents, sellers",
+salesladies,"sales clerks, sales reps, sales agents, sellers",
+salesmen,"sales clerks, sales reps, sales agents, sellers",
+sales men,"sales clerks, sales reps, sales agents, sellers",
+servicewoman,"soldier, service representative",
+serviceman,"soldier, service representative",
+servicewomen,"soldiers, service representatives",
+servicemen,"soldiers, service representatives",
+waitress,server,
+waiter,server,
+waitresses,servers,
+waiters,servers,
+workwoman,"worker, wage earner, taxpayer",
+working woman,"worker, wage earner, taxpayer",
+workman,"worker, wage earner, taxpayer",
+working man,"worker, wage earner, taxpayer",
+workwomen,workers,
+workmen,workers,
+actress,"performer, star, artist, entertainer",
+actor,"performer, star, artist, entertainer",
+actresses,"performers, stars, artists, entertainers",
+actors,"performers, stars, artists, entertainers",
+aircrewwoman,"pilot, aviator, airstaff",
+aircrew woman,"pilot, aviator, airstaff",
+aircrewman,"pilot, aviator, airstaff",
+airman,"pilot, aviator, airstaff",
+aircrewwomen,"pilots, aviators, airstaff",
+aircrew women,"pilots, aviators, airstaff",
+aircrewmen,"pilots, aviators, airstaff",
+airmen,"pilots, aviators, airstaff",
+alderwoman,cabinet member,
+alderman,cabinet member,
+alderwomen,"cabinet, cabinet members, alderperson",
+aldermen,"cabinet, cabinet members, alderperson",
+assemblywoman,"assembly person, assembly worker",
+assemblyman,"assembly person, assembly worker",
+kinswoman,relative,
+aunt,relative,
+kinsman,relative,
+uncle,relative,
+kinswomen,relatives,
+aunts,relatives,
+kinsmen,relatives,
+uncles,relatives,
+boogeywoman,boogeymonster,
+boogeyman,boogeymonster,
+boogiewoman,boogeymonster,
+boogieman,boogeymonster,
+bogeywoman,bogeymonster,
+bogeyman,bogeymonster,
+bogiewoman,bogeymonster,
+bogieman,bogeymonster,
+boogiewomen,boogeymonsters,
+boogiemen,boogeymonsters,
+bogiewomen,bogeymonsters,
+bogiemen,bogeymonsters,
+bondswoman,bonder,
+bondsman,bonder,
+bondswomen,bonders,
+bondsmen,bonders,
+wife,"partner, significant other, spouse",
+husband,"partner, significant other, spouse",
+wives,"partners, significant others, spouses",
+husbands,"partners, significant others, spouses",
+girlfriend,"partner, friend, significant other",
+boyfriend,"partner, friend, significant other",
+girlfriends,"partners, friends, significant others",
+boyfriends,"partners, friends, significant others",
+girlhood,childhood,
+boyhood,childhood,
+girly,childish,
+girlish,childish,
+boyish,childish,
+journeywoman,journeyperson,
+journeyman,journeyperson,
+journeywomen,journeypersons,
+journeymen,journeypersons,
+godmother,"godparent, elder, patron",
+patroness,"godparent, elder, patron",
+godfather,"godparent, elder, patron",
+granddaughter,grandchild,
+grandson,grandchild,
+granddaughters,grandchildren,
+grandsons,grandchildren,
+foremother,ancestor,
+forefather,ancestor,
+foremothers,ancestors,
+forefathers,ancestors,
+granny,"grandparent, ancestor",
+grandma,"grandparent, ancestor",
+grandmother,"grandparent, ancestor",
+grandpappy,"grandparent, ancestor",
+granddaddy,"grandparent, ancestor",
+gramps,"grandparent, ancestor",
+grandpa,"grandparent, ancestor",
+grandfather,"grandparent, ancestor",
+grandmothers,"grandparents, ancestors",
+grandfathers,"grandparents, ancestors",
+bride,"spouse, newlywed",
+groom,"spouse, newlywed",
+sister,sibling,
+brother,sibling,
+sisters,siblings,
+brothers,siblings,
+camerawoman,"camera operator, camera person",
+cameraman,"camera operator, camera person",
+camerawomen,camera operators,
+cameramen,camera operators,
+cavewoman,"troglodyte, hominidae",
+caveman,"troglodyte, hominidae",
+cavewomen,"troglodytae, troglodyti, troglodytes, hominids",
+cavemen,"troglodytae, troglodyti, troglodytes, hominids",
+clergywoman,"clergyperson, clergy, cleric",
+clergyman,"clergyperson, clergy, cleric",
+clergywomen,"clergies, clerics",
+clergymen,"clergies, clerics",
+councilwoman,council member,
+councilman,council member,
+councilwomen,council members,
+councilmen,council members,
+countrywoman,country person,
+countryman,country person,
+countrywomen,country folk,
+countrymen,country folk,
+handywoman,"artisan, craftsperson, skilled worker",
+craftswoman,"artisan, craftsperson, skilled worker",
+handyman,"artisan, craftsperson, skilled worker",
+craftsman,"artisan, craftsperson, skilled worker",
+hostess,"presenter, entertainer, emcee",
+host,"presenter, entertainer, emcee",
+hostesses,"presenters, entertainers, emcees",
+hosts,"presenters, entertainers, emcees",
+handywomen,"artisans, craftspersons, skilled workers",
+craftswomen,"artisans, craftspersons, skilled workers",
+handymen,"artisans, craftspersons, skilled workers",
+craftsmen,"artisans, craftspersons, skilled workers",
+hangwoman,guillotine,
+hangman,guillotine,
+hangwomen,guillotines,
+hangmen,guillotines,
+henchwoman,sidekick,
+henchman,sidekick,
+henchwomen,sidekicks,
+henchmen,sidekicks,
+heroine,"role-model, mentor",
+hero,"role-model, mentor",
+heroines,"role-models, mentor",
+heroes,"role-models, mentor",
+maternal,"parental, warm, intimate",
+paternal,"parental, warm, intimate",
+fraternal,"parental, warm, intimate",
+maternity,parental,
+paternity,parental,
+mamas,parents,
+mothers,parents,
+moms,parents,
+mums,parents,
+mommas,parents,
+mommies,parents,
+papas,parents,
+fathers,parents,
+dads,parents,
+daddies,parents,
+mama,parent,
+mother,parent,
+mom,parent,
+mum,parent,
+momma,parent,
+mommy,parent,
+papa,parent,
+father,parent,
+dad,parent,
+pop,parent,
+daddy,parent,
+daughter,child,
+son,child,
+daughters,children,
+sons,children,
+doorwoman,concierge,
+doorman,concierge,
+doorwomen,concierges,
+doormen,concierges,
+feminin,"humanly, mature",
+dudely,"humanly, mature",
+manly,"humanly, mature",
+females,humans,
+males,humans,
+empress,ruler,
+queen,ruler,
+emperor,ruler,
+king,ruler,
+empresses,rulers,
+queens,rulers,
+emperors,rulers,
+kings,rulers,
+queensize,"jumbo, gigantic",
+kingsize,"jumbo, gigantic",
+queenmaker,power behind the throne,
+kingmaker,power behind the throne,
+laywoman,civilian,
+layman,civilian,
+laywomen,civilians,
+laymen,civilians,
+dame,"official, owner, expert, superior, chief, ruler",
+lord,"official, owner, expert, superior, chief, ruler",
+dames,"officials, chiefs, rulers",
+lords,"officials, chiefs, rulers",
+womanhood,"adulthood, personhood, maturity",
+masculinity,"adulthood, personhood, maturity",
+manhood,"adulthood, personhood, maturity",
+femininity,humanity,
+manliness,humanity,
+markswoman,shooter,
+marksman,shooter,
+markswomen,shooters,
+marksmen,shooters,
+middlewoman,"intermediary, go-between",
+middleman,"intermediary, go-between",
+middlewomen,"intermediaries, go-betweens",
+middlemen,"intermediaries, go-betweens",
+milkwoman,milk person,
+milkman,milk person,
+milkwomen,milk people,
+milkmen,milk people,
+niece,"nibling, sibling’s child",
+nephew,"nibling, sibling’s child",
+nieces,"niblings, sibling’s children",
+nephews,"niblings, sibling’s children",
+noblewoman,noble,
+nobleman,noble,
+noblewomen,nobles,
+noblemen,nobles,
+ombudswoman,"notary, consumer advocate, trouble shooter, omsbudperson, mediator",
+ombudsman,"notary, consumer advocate, trouble shooter, omsbudperson, mediator",
+ombudswomen,"notaries, omsbudpersons, omsbudpeople, mediators",
+ombudsmen,"notaries, omsbudpersons, omsbudpeople, mediators",
+princess,heir,
+prince,heir,
+princesses,heirs,
+princes,heirs,
+sandwoman,fairy,
+sandman,fairy,
+sandwomen,fairies,
+sandmen,fairies,
+showwoman,promoter,
+showman,promoter,
+showwomen,promoters,
+show women,promoters,
+showmen,promoters,
+spacewoman,astronaut,
+spaceman,astronaut,
+spacewomen,astronauts,
+spacemen,astronauts,
+spokeswoman,"speaker, spokesperson, representative",
+spokesman,"speaker, spokesperson, representative",
+spokeswomen,"speakers, spokespersons",
+spokesmen,"speakers, spokespersons",
+sportswoman,"athlete, sports person",
+sportsman,"athlete, sports person",
+sportswomen,"athletes, sports persons",
+sportsmen,"athletes, sports persons",
+stateswoman,senator,
+statesman,senator,
+stepsister,step-sibling,
+stepbrother,step-sibling,
+stepsisters,step-siblings,
+stepbrothers,step-siblings,
+stepmom,step-parent,
+stepmother,step-parent,
+stepdad,step-parent,
+stepfather,step-parent,
+stepmothers,step-parents,
+stepfathers,step-parents,
+superwoman,titan,
+superman,titan,
+superwomen,titans,
+supermen,titans,
+unwomanly,inhumane,
+unwomenly,inhumane,
+unmanly,inhumane,
+unmenly,inhumane,
+watchwoman,watcher,
+watchman,watcher,
+watchwomen,watchers,
+watchmen,watchers,
+weatherwoman,"weather forecaster, meteorologist",
+weatherman,"weather forecaster, meteorologist",
+weatherwomen,"weather forecasters, meteorologists",
+weathermen,"weather forecasters, meteorologists",
+widow,bereaved,
+widows,bereaved,
+widower,bereaved,
+widowers,bereaved,
+own woman,own person,
+own man,own person,
+frenchmen,"french, the french",
+ladylike,"courteous, cultured",
+like a man,"resolutely, bravely",
+maiden name,birth name,
+maiden voyage,first voyage,
+maiden flight,first flight,
+man enough,strong enough,
+oneupmanship,"upstaging, competitiveness",
+miss.,ms.,
+mrs.,ms.,
+manmade,"manufactured, artificial, synthetic, machine-made, constructed",
+man of action,dynamo,
+man of letters,"scholar, writer, literary figure",
+man of the world,sophisticate,
+fellowship,"camaraderie, community, organization",
+freshman,"first-year student, fresher",
+freshwoman,"first-year student, fresher",
+workmanship,"quality construction, expertise",
+housewife,"homemaker, homeworker",
+housewives,"homemakers, homeworkers",
+motherly,"loving, warm, nurturing",
+manpower,"human resources, workforce, personnel, staff, labor, personnel, labor force, staffing, combat personnel",
+master of ceremonies,"emcee, moderator, convenor",
+masterful,"skilled, authoritative, commanding",
+mastermind,"genius, creator, instigator, oversee, launch, originate",
+masterpiece,"work of genius, chef d’oeuvre",
+masterplan,"vision, comprehensive plan",
+masterstroke,"trump card, stroke of genius",
+madman,"fanatic, zealot, enthusiast",
+mad man,"fanatic, zealot, enthusiast",
+madmen,"fanatics, zealots, enthusiasts",
+mad men,"fanatics, zealots, enthusiasts",
+mankind,humankind,
+manhour,"staff hour, hour of work",
+man hour,"staff hour, hour of work",
+manhours,"staff hours, hours of work, hours of labor, hours",
+man hours,"staff hours, hours of work, hours of labor, hours",
+maned,"staffed, crewed, piloted",Using gender neutral language means users will help to break up gender stereotypes.
+unmaned,"robotic, automated",Using gender neutral language means users will help to break up gender stereotypes.
+bitching,"whining, complaining, crying",
+bitch,"whine, complain, cry",
+wife beater,"tank top, sleeveless undershirt",
+wifebeater,"tank top, sleeveless undershirt",
+ancient man,"ancient civilization, ancient people",
+authoress,"author, writer",
+average housewife,"average consumer, average household, average homemaker",
+average man,average person,
+average working man,"average wage earner, average taxpayer",
+aviatrix,aviator,
+brotherhood of man,the human family,
+calendar girl,model,
+call girl,"escort, prostitute, sex worker",
+churchman,"cleric, practicing Christian, pillar of the Church",
+english master,"english coordinator, senior teacher of english",
+englishmen,the english,
+executrix,executor,
+father of,founder of,
+founding father,"the founders, founding leaders, forebears",
+housemaid,"house worker, domestic help",
+industrial man,"industrial civilization, industrial people",
+lady doctor,doctor,
+leading lady,lead,
+maiden race,first race,
+maiden speech,first speech,
+man a desk,staff a desk,
+man in the street,"ordinary citizen, typical person, average person",
+man of the land,"farmer, rural worker, grazier, landowner, rural community, country people, country folk",
+mans best friend,a faithful dog,
+man the booth,staff the booth,
+man the phones,answer the phones,
+mansized task,"a demanding task, a big job",
+ man sized task,"a demanding task, a big job",
+master key,"pass key, original",
+master plan,"grand scheme, guiding principles",
+master the art,become skilled,
+men of science,scientists,
+midwife,birthing nurse,
+modern man,"modern civilization, modern people",
+no mans land,"unoccupied territory, wasteland, deathtrap",
+office girls,administrative staff,
+poetress,poet,
+railwayman,railway worker,
+sportsmanlike,"fair, sporting",
+sportsmanship,"fairness, good humor, sense of fair play",
+statesmanlike,diplomatic,
+stockman,"cattle worker, farmhand, drover",
+tradesmans entrance,service entrance,
+tax man,"tax commissioner, tax office, tax collector",
+usherette,usher,
+woman lawyer,lawyer,
+woman painter,painter,
+working mother,"wage or salary earning woman, two-income family",
+working wife,"wage or salary earning woman, two-income family",
+homosexual,"gay, gay man, lesbian, gay person/people",This term has a clinical history and is used to imply LGBTQ+ people are diseased or psychologically/emotionally disordered
+homosexual relations,relationship,Avoid labeling something as LGBTQ+ unless you would call the same thing “straight”
+homosexual relationship,relationship,Avoid labeling something as LGBTQ+ unless you would call the same thing “straight”
+homosexual couple,couple,Avoid labeling something as LGBTQ+ unless you would call the same thing “straight”
+sexual preference,"sexual orientation, orientation",Implies that being LGBTQ+ is a choice
+gay lifestyle,"gay lives, gay/lesbian lives",Implies that being LGBTQ+ is a choice
+homosexual lifestyle,"gay lives, gay/lesbian lives",Implies that being LGBTQ+ is a choice
+gay agenda,gay issues,Used by anti-LGBTQ+ extremists to create a climate of fear around LGBTQ+ issues
+homosexual agenda,gay issues,Used by anti-LGBTQ+ extremists to create a climate of fear around LGBTQ+ issues
+special rights,"equal rights, civil rights for gay people",LGBTQ+ rights are human rights
+gay rights,"equal rights, civil rights for gay people",LGBTQ+ rights are human rights
+fag,gay,Derogatory terms for LGBTQ+ people are offensive
+faggot,gay,Derogatory terms for LGBTQ+ people are offensive
+dyke,gay,Derogatory terms for LGBTQ+ people are offensive
+homo,gay,Derogatory terms for LGBTQ+ people are offensive
+sodomite,gay,Derogatory terms for LGBTQ+ people are offensive
+bi,bisexual,Avoid using slang shorthand
+homosexual marriage,"gay marriage, same-sex marriage",Homosexual has a clinical history and is used to imply LGBTQ+ people are diseased or psychologically/emotionally disordered
+tranny,transgender,Derogatory terms for LGBTQ+ people are offensive
+transvestite,cross-dresser,Avoid using outdated / offensive terms
+sexchange,"transition, gender confirmation surgery",Avoid overemphasizing surgery when discussing transgender people or the process of transition - it’s not a necessary component
+sex change,"transition, gender confirmation surgery",Avoid overemphasizing surgery when discussing transgender people or the process of transition - it’s not a necessary component
+sex change operation,"sex reassignment surgery, gender confirmation surgery",Shift focus away from the assigned sex and towards the identified gender
+transgenders,transgender people,"Transgender should be used as an adjective, not as a noun"
+transgendered,transgender,Transgender is already an adjective
+transgenderism,"being transgender, the movement for transgender equality",This is a term used by anti-transgender activists to dehumanize transgender people and reduce who they are to a condition
+biologically male,"assigned male at birth, designated male at birth",Assigned birth gender is complicated; gender identity is more than what your parents decided you were at birth
+born a man,"assigned male at birth, designated male at birth",Assigned birth gender is complicated; gender identity is more than what your parents decided you were at birth
+genetically male,"assigned male at birth, designated male at birth",Assigned birth gender is complicated; gender identity is more than what your parents decided you were at birth
+biologically female,"assigned female at birth, designated female at birth",Assigned birth gender is complicated; gender identity is more than what your parents decided you were at birth
+born a woman,"assigned female at birth, designated female at birth",Assigned birth gender is complicated; gender identity is more than what your parents decided you were at birth
+genetically female,"assigned female at birth, designated female at birth",Assigned birth gender is complicated; gender identity is more than what your parents decided you were at birth
+bathroom bill,"non-discrimination law, non-discrimination ordinance",A term created and used by far-right extremists to oppose nondiscrimination laws that protect transgender people
+hermaphroditic,intersex,These terms are stigmatizing to patients and their families because intersex status is more complicated than the mere presence or absence of certain gonadal tissues
+pseudohermaphroditic,intersex,These terms are stigmatizing to patients and their families because intersex status is more complicated than the mere presence or absence of certain gonadal tissues
+pseudo hermaphroditic,intersex,These terms are stigmatizing to patients and their families because intersex status is more complicated than the mere presence or absence of certain gonadal tissues
+hermaphrodite,"person who is intersex, person, intersex person",These terms are stigmatizing to patients and their families because intersex status is more complicated than the mere presence or absence of certain gonadal tissues
+pseudohermaphrodite,"person who is intersex, person, intersex person",These terms are stigmatizing to patients and their families because intersex status is more complicated than the mere presence or absence of certain gonadal tissues
+pseudo hermaphrodite,"person who is intersex, person, intersex person",These terms are stigmatizing to patients and their families because intersex status is more complicated than the mere presence or absence of certain gonadal tissues
+shemale,"transgender person, person",This word dehumanizes transgender people
+she male,"transgender person, person",This word dehumanizes transgender people
+heshe,"transgender person, person",This word dehumanizes transgender people
+shehe,"transgender person, person",This word dehumanizes transgender people
+preferred pronoun,"pronoun, pronouns",Preferred pronoun sounds like it is optional to use someone's correct pronoun
+preferred pronouns,"pronoun, pronouns",Preferred pronoun sounds like it is optional to use someone's correct pronoun
+gender pronoun,"pronoun, pronouns",Preferred pronoun sounds like it is optional to use someone's correct pronoun
+gender pronouns,"pronoun, pronouns",Preferred pronoun sounds like it is optional to use someone's correct pronoun
+abbo,,This is a profanity and should not be used
+abeed,,This is a profanity and should not be used
+abid,,This is a profanity and should not be used
+abo,,This is a profanity and should not be used
+abortion,,This is a profanity and should not be used
+abuse,,This is a profanity and should not be used
+addict,,This is a profanity and should not be used
+addicts,,This is a profanity and should not be used
+adult,,This is a profanity and should not be used
+africa,,This is a profanity and should not be used
+african,,This is a profanity and should not be used
+africoon,,This is a profanity and should not be used
+alla,,This is a profanity and should not be used
+allah,,This is a profanity and should not be used
+alligator bait,,This is a profanity and should not be used
+alligatorbait,,This is a profanity and should not be used
+amateur,,This is a profanity and should not be used
+american,,This is a profanity and should not be used
+anal,,This is a profanity and should not be used
+analannie,,This is a profanity and should not be used
+analsex,,This is a profanity and should not be used
+angie,,This is a profanity and should not be used
+angry,,This is a profanity and should not be used
+anus,,This is a profanity and should not be used
+arab,,This is a profanity and should not be used
+arabs,,This is a profanity and should not be used
+arabush,,This is a profanity and should not be used
+arabushs,,This is a profanity and should not be used
+areola,,This is a profanity and should not be used
+argie,,This is a profanity and should not be used
+armo,,This is a profanity and should not be used
+armos,,This is a profanity and should not be used
+aroused,,This is a profanity and should not be used
+arse,,This is a profanity and should not be used
+arsehole,,This is a profanity and should not be used
+asian,,This is a profanity and should not be used
+ass,,This is a profanity and should not be used
+assassin,,This is a profanity and should not be used
+assassinate,,This is a profanity and should not be used
+assassination,,This is a profanity and should not be used
+assault,,This is a profanity and should not be used
+assbagger,,This is a profanity and should not be used
+assblaster,,This is a profanity and should not be used
+assclown,,This is a profanity and should not be used
+asscowboy,,This is a profanity and should not be used
+asses,,This is a profanity and should not be used
+assfuck,,This is a profanity and should not be used
+assfucker,,This is a profanity and should not be used
+asshat,,This is a profanity and should not be used
+asshole,,This is a profanity and should not be used
+assholes,,This is a profanity and should not be used
+asshore,,This is a profanity and should not be used
+assjockey,,This is a profanity and should not be used
+asskiss,,This is a profanity and should not be used
+asskisser,,This is a profanity and should not be used
+assklown,,This is a profanity and should not be used
+asslick,,This is a profanity and should not be used
+asslicker,,This is a profanity and should not be used
+asslover,,This is a profanity and should not be used
+assman,,This is a profanity and should not be used
+assmonkey,,This is a profanity and should not be used
+assmunch,,This is a profanity and should not be used
+assmuncher,,This is a profanity and should not be used
+asspacker,,This is a profanity and should not be used
+asspirate,,This is a profanity and should not be used
+asspuppies,,This is a profanity and should not be used
+assranger,,This is a profanity and should not be used
+asswhore,,This is a profanity and should not be used
+asswipe,,This is a profanity and should not be used
+athletesfoot,,This is a profanity and should not be used
+attack,,This is a profanity and should not be used
+australian,,This is a profanity and should not be used
+babe,,This is a profanity and should not be used
+babies,,This is a profanity and should not be used
+backdoor,,This is a profanity and should not be used
+backdoorman,,This is a profanity and should not be used
+backseat,,This is a profanity and should not be used
+badfuck,,This is a profanity and should not be used
+balllicker,,This is a profanity and should not be used
+balls,,This is a profanity and should not be used
+ballsack,,This is a profanity and should not be used
+banana,,This is a profanity and should not be used
+bananas,,This is a profanity and should not be used
+banging,,This is a profanity and should not be used
+baptist,,This is a profanity and should not be used
+barelylegal,,This is a profanity and should not be used
+barf,,This is a profanity and should not be used
+barface,,This is a profanity and should not be used
+barfface,,This is a profanity and should not be used
+bast,,This is a profanity and should not be used
+bastard,,This is a profanity and should not be used
+bazongas,,This is a profanity and should not be used
+bazooms,,This is a profanity and should not be used
+beanbag,,This is a profanity and should not be used
+beanbags,,This is a profanity and should not be used
+beaner,,This is a profanity and should not be used
+beaners,,This is a profanity and should not be used
+beaney,,This is a profanity and should not be used
+beaneys,,This is a profanity and should not be used
+beast,,This is a profanity and should not be used
+beastality,,This is a profanity and should not be used
+beastial,,This is a profanity and should not be used
+beastiality,,This is a profanity and should not be used
+beatoff,,This is a profanity and should not be used
+beatyourmeat,,This is a profanity and should not be used
+beaver,,This is a profanity and should not be used
+bestial,,This is a profanity and should not be used
+bestiality,,This is a profanity and should not be used
+bi,,This is a profanity and should not be used
+biatch,,This is a profanity and should not be used
+bible,,This is a profanity and should not be used
+bicurious,,This is a profanity and should not be used
+bigass,,This is a profanity and should not be used
+bigbastard,,This is a profanity and should not be used
+bigbutt,,This is a profanity and should not be used
+bigger,,This is a profanity and should not be used
+bisexual,,This is a profanity and should not be used
+bitch,,This is a profanity and should not be used
+bitcher,,This is a profanity and should not be used
+bitches,,This is a profanity and should not be used
+bitchez,,This is a profanity and should not be used
+bitchin,,This is a profanity and should not be used
+bitching,,This is a profanity and should not be used
+bitchslap,,This is a profanity and should not be used
+bitchy,,This is a profanity and should not be used
+biteme,,This is a profanity and should not be used
+black,,This is a profanity and should not be used
+blackman,,This is a profanity and should not be used
+blackout,,This is a profanity and should not be used
+blacks,,This is a profanity and should not be used
+blind,,This is a profanity and should not be used
+blow,,This is a profanity and should not be used
+blowjob,,This is a profanity and should not be used
+bluegum,,This is a profanity and should not be used
+bluegums,,This is a profanity and should not be used
+boang,,This is a profanity and should not be used
+boche,,This is a profanity and should not be used
+boches,,This is a profanity and should not be used
+bogan,,This is a profanity and should not be used
+bohunk,,This is a profanity and should not be used
+bollick,,This is a profanity and should not be used
+bollock,,This is a profanity and should not be used
+bollocks,,This is a profanity and should not be used
+bomb,,This is a profanity and should not be used
+bombers,,This is a profanity and should not be used
+bombing,,This is a profanity and should not be used
+bombs,,This is a profanity and should not be used
+bomd,,This is a profanity and should not be used
+bondage,,This is a profanity and should not be used
+boner,,This is a profanity and should not be used
+bong,,This is a profanity and should not be used
+boob,,This is a profanity and should not be used
+boobies,,This is a profanity and should not be used
+boobs,,This is a profanity and should not be used
+booby,,This is a profanity and should not be used
+boody,,This is a profanity and should not be used
+boom,,This is a profanity and should not be used
+boong,,This is a profanity and should not be used
+boonga,,This is a profanity and should not be used
+boongas,,This is a profanity and should not be used
+boongs,,This is a profanity and should not be used
+boonie,,This is a profanity and should not be used
+boonies,,This is a profanity and should not be used
+bootlip,,This is a profanity and should not be used
+bootlips,,This is a profanity and should not be used
+booty,,This is a profanity and should not be used
+bootycall,,This is a profanity and should not be used
+bosch,,This is a profanity and should not be used
+bosche,,This is a profanity and should not be used
+bosches,,This is a profanity and should not be used
+boschs,,This is a profanity and should not be used
+bounty bar,,This is a profanity and should not be used
+bounty bars,,This is a profanity and should not be used
+bountybar,,This is a profanity and should not be used
+bra,,This is a profanity and should not be used
+brea5t,,This is a profanity and should not be used
+breast,,This is a profanity and should not be used
+breastjob,,This is a profanity and should not be used
+breastlover,,This is a profanity and should not be used
+breastman,,This is a profanity and should not be used
+brothel,,This is a profanity and should not be used
+brownie,,This is a profanity and should not be used
+brownies,,This is a profanity and should not be used
+buddhahead,,This is a profanity and should not be used
+buddhaheads,,This is a profanity and should not be used
+buffies,,This is a profanity and should not be used
+buffy,,This is a profanity and should not be used
+bugger,,This is a profanity and should not be used
+buggered,,This is a profanity and should not be used
+buggery,,This is a profanity and should not be used
+bule,,This is a profanity and should not be used
+bules,,This is a profanity and should not be used
+bullcrap,,This is a profanity and should not be used
+bulldike,,This is a profanity and should not be used
+bulldyke,,This is a profanity and should not be used
+bullshit,,This is a profanity and should not be used
+bumblefuck,,This is a profanity and should not be used
+bumfuck,,This is a profanity and should not be used
+bung,,This is a profanity and should not be used
+bunga,,This is a profanity and should not be used
+bungas,,This is a profanity and should not be used
+bunghole,,This is a profanity and should not be used
+buried,,This is a profanity and should not be used
+burn,,This is a profanity and should not be used
+burr head,,This is a profanity and should not be used
+burr heads,,This is a profanity and should not be used
+burrhead,,This is a profanity and should not be used
+burrheads,,This is a profanity and should not be used
+butchbabes,,This is a profanity and should not be used
+butchdike,,This is a profanity and should not be used
+butchdyke,,This is a profanity and should not be used
+butt,,This is a profanity and should not be used
+buttbang,,This is a profanity and should not be used
+buttface,,This is a profanity and should not be used
+buttfuck,,This is a profanity and should not be used
+buttfucker,,This is a profanity and should not be used
+buttfuckers,,This is a profanity and should not be used
+butthead,,This is a profanity and should not be used
+buttman,,This is a profanity and should not be used
+buttmunch,,This is a profanity and should not be used
+buttmuncher,,This is a profanity and should not be used
+buttpirate,,This is a profanity and should not be used
+buttplug,,This is a profanity and should not be used
+buttstain,,This is a profanity and should not be used
+byatch,,This is a profanity and should not be used
+cacker,,This is a profanity and should not be used
+camel jockey,,This is a profanity and should not be used
+camel jockeys,,This is a profanity and should not be used
+cameljockey,,This is a profanity and should not be used
+cameltoe,,This is a profanity and should not be used
+canadian,,This is a profanity and should not be used
+cancer,,This is a profanity and should not be used
+carpetmuncher,,This is a profanity and should not be used
+carruth,,This is a profanity and should not be used
+catholic,,This is a profanity and should not be used
+catholics,,This is a profanity and should not be used
+cemetery,,This is a profanity and should not be used
+chav,,This is a profanity and should not be used
+cheese eating surrender monkey,,This is a profanity and should not be used
+cheese eating surrender monkies,,This is a profanity and should not be used
+cheeseeating surrender monkey,,This is a profanity and should not be used
+cheeseeating surrender monkies,,This is a profanity and should not be used
+cheesehead,,This is a profanity and should not be used
+cheeseheads,,This is a profanity and should not be used
+cherrypopper,,This is a profanity and should not be used
+chickslick,,This is a profanity and should not be used
+childrens,,This is a profanity and should not be used
+chin,,This is a profanity and should not be used
+china swede,,This is a profanity and should not be used
+china swedes,,This is a profanity and should not be used
+chinaman,,This is a profanity and should not be used
+chinamen,,This is a profanity and should not be used
+chinaswede,,This is a profanity and should not be used
+chinaswedes,,This is a profanity and should not be used
+chinese,,This is a profanity and should not be used
+ching chong,,This is a profanity and should not be used
+ching chongs,,This is a profanity and should not be used
+chingchong,,This is a profanity and should not be used
+chingchongs,,This is a profanity and should not be used
+chink,,This is a profanity and should not be used
+chinks,,This is a profanity and should not be used
+chinky,,This is a profanity and should not be used
+choad,,This is a profanity and should not be used
+chode,,This is a profanity and should not be used
+chonkies,,This is a profanity and should not be used
+chonky,,This is a profanity and should not be used
+chonkys,,This is a profanity and should not be used
+christ,,This is a profanity and should not be used
+christ killer,,This is a profanity and should not be used
+christ killers,,This is a profanity and should not be used
+christian,,This is a profanity and should not be used
+chug,,This is a profanity and should not be used
+chugs,,This is a profanity and should not be used
+chunger,,This is a profanity and should not be used
+chungers,,This is a profanity and should not be used
+chunkies,,This is a profanity and should not be used
+chunky,,This is a profanity and should not be used
+chunkys,,This is a profanity and should not be used
+church,,This is a profanity and should not be used
+cigarette,,This is a profanity and should not be used
+cigs,,This is a profanity and should not be used
+clamdigger,,This is a profanity and should not be used
+clamdiver,,This is a profanity and should not be used
+clansman,,This is a profanity and should not be used
+clansmen,,This is a profanity and should not be used
+clanswoman,,This is a profanity and should not be used
+clanswomen,,This is a profanity and should not be used
+clit,,This is a profanity and should not be used
+clitoris,,This is a profanity and should not be used
+clogwog,,This is a profanity and should not be used
+cocaine,,This is a profanity and should not be used
+cock,,This is a profanity and should not be used
+cockblock,,This is a profanity and should not be used
+cockblocker,,This is a profanity and should not be used
+cockcowboy,,This is a profanity and should not be used
+cockfight,,This is a profanity and should not be used
+cockhead,,This is a profanity and should not be used
+cockknob,,This is a profanity and should not be used
+cocklicker,,This is a profanity and should not be used
+cocklover,,This is a profanity and should not be used
+cocknob,,This is a profanity and should not be used
+cockqueen,,This is a profanity and should not be used
+cockrider,,This is a profanity and should not be used
+cocksman,,This is a profanity and should not be used
+cocksmith,,This is a profanity and should not be used
+cocksmoker,,This is a profanity and should not be used
+cocksucer,,This is a profanity and should not be used
+cocksuck,,This is a profanity and should not be used
+cocksucked,,This is a profanity and should not be used
+cocksucker,,This is a profanity and should not be used
+cocksucking,,This is a profanity and should not be used
+cocktail,,This is a profanity and should not be used
+cocktease,,This is a profanity and should not be used
+cocky,,This is a profanity and should not be used
+coconut,,This is a profanity and should not be used
+coconuts,,This is a profanity and should not be used
+cohee,,This is a profanity and should not be used
+coitus,,This is a profanity and should not be used
+color,,This is a profanity and should not be used
+colored,,This is a profanity and should not be used
+coloured,,This is a profanity and should not be used
+commie,,This is a profanity and should not be used
+communist,,This is a profanity and should not be used
+condom,,This is a profanity and should not be used
+conservative,,This is a profanity and should not be used
+conspiracy,,This is a profanity and should not be used
+coolie,,This is a profanity and should not be used
+coolies,,This is a profanity and should not be used
+cooly,,This is a profanity and should not be used
+coon,,This is a profanity and should not be used
+coon ass,,This is a profanity and should not be used
+coon asses,,This is a profanity and should not be used
+coonass,,This is a profanity and should not be used
+coonasses,,This is a profanity and should not be used
+coondog,,This is a profanity and should not be used
+coons,,This is a profanity and should not be used
+copulate,,This is a profanity and should not be used
+cornhole,,This is a profanity and should not be used
+corruption,,This is a profanity and should not be used
+cra5h,,This is a profanity and should not be used
+crabs,,This is a profanity and should not be used
+crack,,This is a profanity and should not be used
+cracka,,This is a profanity and should not be used
+cracker,,This is a profanity and should not be used
+crackpipe,,This is a profanity and should not be used
+crackwhore,,This is a profanity and should not be used
+crap,,This is a profanity and should not be used
+crapola,,This is a profanity and should not be used
+crapper,,This is a profanity and should not be used
+crappy,,This is a profanity and should not be used
+crash,,This is a profanity and should not be used
+creamy,,This is a profanity and should not be used
+crime,,This is a profanity and should not be used
+crimes,,This is a profanity and should not be used
+criminal,,This is a profanity and should not be used
+criminals,,This is a profanity and should not be used
+crotch,,This is a profanity and should not be used
+crotchjockey,,This is a profanity and should not be used
+crotchmonkey,,This is a profanity and should not be used
+crotchrot,,This is a profanity and should not be used
+cum,,This is a profanity and should not be used
+cumbubble,,This is a profanity and should not be used
+cumfest,,This is a profanity and should not be used
+cumjockey,,This is a profanity and should not be used
+cumm,,This is a profanity and should not be used
+cummer,,This is a profanity and should not be used
+cumming,,This is a profanity and should not be used
+cummings,,This is a profanity and should not be used
+cumquat,,This is a profanity and should not be used
+cumqueen,,This is a profanity and should not be used
+cumshot,,This is a profanity and should not be used
+cunilingus,,This is a profanity and should not be used
+cunillingus,,This is a profanity and should not be used
+cunn,,This is a profanity and should not be used
+cunnilingus,,This is a profanity and should not be used
+cunntt,,This is a profanity and should not be used
+cunt,,This is a profanity and should not be used
+cunteyed,,This is a profanity and should not be used
+cuntfuck,,This is a profanity and should not be used
+cuntfucker,,This is a profanity and should not be used
+cuntlick,,This is a profanity and should not be used
+cuntlicker,,This is a profanity and should not be used
+cuntlicking,,This is a profanity and should not be used
+cuntsucker,,This is a profanity and should not be used
+curry muncher,,This is a profanity and should not be used
+curry munchers,,This is a profanity and should not be used
+currymuncher,,This is a profanity and should not be used
+currymunchers,,This is a profanity and should not be used
+cushi,,This is a profanity and should not be used
+cushis,,This is a profanity and should not be used
+cybersex,,This is a profanity and should not be used
+cyberslimer,,This is a profanity and should not be used
+dago,,This is a profanity and should not be used
+dagos,,This is a profanity and should not be used
+dahmer,,This is a profanity and should not be used
+dammit,,This is a profanity and should not be used
+damn,,This is a profanity and should not be used
+damnation,,This is a profanity and should not be used
+damnit,,This is a profanity and should not be used
+darkey,,This is a profanity and should not be used
+darkeys,,This is a profanity and should not be used
+darkie,,This is a profanity and should not be used
+darkies,,This is a profanity and should not be used
+darky,,This is a profanity and should not be used
+datnigga,,This is a profanity and should not be used
+dead,,This is a profanity and should not be used
+deapthroat,,This is a profanity and should not be used
+death,,This is a profanity and should not be used
+deepthroat,,This is a profanity and should not be used
+defecate,,This is a profanity and should not be used
+dego,,This is a profanity and should not be used
+degos,,This is a profanity and should not be used
+demon,,This is a profanity and should not be used
+deposit,,This is a profanity and should not be used
+desire,,This is a profanity and should not be used
+destroy,,This is a profanity and should not be used
+deth,,This is a profanity and should not be used
+devil,,This is a profanity and should not be used
+devilworshipper,,This is a profanity and should not be used
+diaper head,,This is a profanity and should not be used
+diaper heads,,This is a profanity and should not be used
+diaperhead,,This is a profanity and should not be used
+diaperheads,,This is a profanity and should not be used
+dick,,This is a profanity and should not be used
+dickbrain,,This is a profanity and should not be used
+dickforbrains,,This is a profanity and should not be used
+dickhead,,This is a profanity and should not be used
+dickless,,This is a profanity and should not be used
+dicklick,,This is a profanity and should not be used
+dicklicker,,This is a profanity and should not be used
+dickman,,This is a profanity and should not be used
+dickwad,,This is a profanity and should not be used
+dickweed,,This is a profanity and should not be used
+diddle,,This is a profanity and should not be used
+die,,This is a profanity and should not be used
+died,,This is a profanity and should not be used
+dies,,This is a profanity and should not be used
+dike,,This is a profanity and should not be used
+dildo,,This is a profanity and should not be used
+dingleberry,,This is a profanity and should not be used
+dink,,This is a profanity and should not be used
+dinks,,This is a profanity and should not be used
+dipshit,,This is a profanity and should not be used
+dipstick,,This is a profanity and should not be used
+dirty,,This is a profanity and should not be used
+disease,,This is a profanity and should not be used
+diseases,,This is a profanity and should not be used
+disturbed,,This is a profanity and should not be used
+dive,,This is a profanity and should not be used
+dix,,This is a profanity and should not be used
+dixiedike,,This is a profanity and should not be used
+dixiedyke,,This is a profanity and should not be used
+doggiestyle,,This is a profanity and should not be used
+doggystyle,,This is a profanity and should not be used
+dong,,This is a profanity and should not be used
+doodoo,,This is a profanity and should not be used
+doom,,This is a profanity and should not be used
+dope,,This is a profanity and should not be used
+dot head,,This is a profanity and should not be used
+dot heads,,This is a profanity and should not be used
+dothead,,This is a profanity and should not be used
+dotheads,,This is a profanity and should not be used
+dragqueen,,This is a profanity and should not be used
+dragqween,,This is a profanity and should not be used
+dripdick,,This is a profanity and should not be used
+drug,,This is a profanity and should not be used
+drunk,,This is a profanity and should not be used
+drunken,,This is a profanity and should not be used
+dumb,,This is a profanity and should not be used
+dumbass,,This is a profanity and should not be used
+dumbbitch,,This is a profanity and should not be used
+dumbfuck,,This is a profanity and should not be used
+dune coon,,This is a profanity and should not be used
+dune coons,,This is a profanity and should not be used
+dyefly,,This is a profanity and should not be used
+dyke,,This is a profanity and should not be used
+easyslut,,This is a profanity and should not be used
+eatballs,,This is a profanity and should not be used
+eatme,,This is a profanity and should not be used
+eatpussy,,This is a profanity and should not be used
+ecstacy,,This is a profanity and should not be used
+eight ball,,This is a profanity and should not be used
+eight balls,,This is a profanity and should not be used
+ejaculate,,This is a profanity and should not be used
+ejaculated,,This is a profanity and should not be used
+ejaculating,,This is a profanity and should not be used
+ejaculation,,This is a profanity and should not be used
+enema,,This is a profanity and should not be used
+enemy,,This is a profanity and should not be used
+erect,,This is a profanity and should not be used
+erection,,This is a profanity and should not be used
+ero,,This is a profanity and should not be used
+escort,,This is a profanity and should not be used
+esqua,,This is a profanity and should not be used
+ethiopian,,This is a profanity and should not be used
+ethnic,,This is a profanity and should not be used
+european,,This is a profanity and should not be used
+evl,,This is a profanity and should not be used
+excrement,,This is a profanity and should not be used
+execute,,This is a profanity and should not be used
+executed,,This is a profanity and should not be used
+execution,,This is a profanity and should not be used
+executioner,,This is a profanity and should not be used
+exkwew,,This is a profanity and should not be used
+explosion,,This is a profanity and should not be used
+facefucker,,This is a profanity and should not be used
+faeces,,This is a profanity and should not be used
+fag,,This is a profanity and should not be used
+fagging,,This is a profanity and should not be used
+faggot,,This is a profanity and should not be used
+fagot,,This is a profanity and should not be used
+failed,,This is a profanity and should not be used
+failure,,This is a profanity and should not be used
+fairies,,This is a profanity and should not be used
+fairy,,This is a profanity and should not be used
+faith,,This is a profanity and should not be used
+fannyfucker,,This is a profanity and should not be used
+fart,,This is a profanity and should not be used
+farted,,This is a profanity and should not be used
+farting,,This is a profanity and should not be used
+farty,,This is a profanity and should not be used
+fastfuck,,This is a profanity and should not be used
+fat,,This is a profanity and should not be used
+fatah,,This is a profanity and should not be used
+fatass,,This is a profanity and should not be used
+fatfuck,,This is a profanity and should not be used
+fatfucker,,This is a profanity and should not be used
+fatso,,This is a profanity and should not be used
+fckcum,,This is a profanity and should not be used
+fear,,This is a profanity and should not be used
+feces,,This is a profanity and should not be used
+felatio,,This is a profanity and should not be used
+felch,,This is a profanity and should not be used
+felcher,,This is a profanity and should not be used
+felching,,This is a profanity and should not be used
+fellatio,,This is a profanity and should not be used
+feltch,,This is a profanity and should not be used
+feltcher,,This is a profanity and should not be used
+feltching,,This is a profanity and should not be used
+fetish,,This is a profanity and should not be used
+fight,,This is a profanity and should not be used
+filipina,,This is a profanity and should not be used
+filipino,,This is a profanity and should not be used
+fingerfood,,This is a profanity and should not be used
+fingerfuck,,This is a profanity and should not be used
+fingerfucked,,This is a profanity and should not be used
+fingerfucker,,This is a profanity and should not be used
+fingerfuckers,,This is a profanity and should not be used
+fingerfucking,,This is a profanity and should not be used
+fire,,This is a profanity and should not be used
+firing,,This is a profanity and should not be used
+fister,,This is a profanity and should not be used
+fistfuck,,This is a profanity and should not be used
+fistfucked,,This is a profanity and should not be used
+fistfucker,,This is a profanity and should not be used
+fistfucking,,This is a profanity and should not be used
+fisting,,This is a profanity and should not be used
+flange,,This is a profanity and should not be used
+flasher,,This is a profanity and should not be used
+flatulence,,This is a profanity and should not be used
+floo,,This is a profanity and should not be used
+flydie,,This is a profanity and should not be used
+flydye,,This is a profanity and should not be used
+fok,,This is a profanity and should not be used
+fondle,,This is a profanity and should not be used
+footaction,,This is a profanity and should not be used
+footfuck,,This is a profanity and should not be used
+footfucker,,This is a profanity and should not be used
+footlicker,,This is a profanity and should not be used
+footstar,,This is a profanity and should not be used
+fore,,This is a profanity and should not be used
+foreskin,,This is a profanity and should not be used
+forni,,This is a profanity and should not be used
+fornicate,,This is a profanity and should not be used
+foursome,,This is a profanity and should not be used
+fourtwenty,,This is a profanity and should not be used
+fraud,,This is a profanity and should not be used
+freakfuck,,This is a profanity and should not be used
+freakyfucker,,This is a profanity and should not be used
+freefuck,,This is a profanity and should not be used
+fruitcake,,This is a profanity and should not be used
+fu,,This is a profanity and should not be used
+fubar,,This is a profanity and should not be used
+fuc,,This is a profanity and should not be used
+fucck,,This is a profanity and should not be used
+fuck,,This is a profanity and should not be used
+fucka,,This is a profanity and should not be used
+fuckable,,This is a profanity and should not be used
+fuckbag,,This is a profanity and should not be used
+fuckbook,,This is a profanity and should not be used
+fuckbuddy,,This is a profanity and should not be used
+fucked,,This is a profanity and should not be used
+fuckedup,,This is a profanity and should not be used
+fucker,,This is a profanity and should not be used
+fuckers,,This is a profanity and should not be used
+fuckface,,This is a profanity and should not be used
+fuckfest,,This is a profanity and should not be used
+fuckfreak,,This is a profanity and should not be used
+fuckfriend,,This is a profanity and should not be used
+fuckhead,,This is a profanity and should not be used
+fuckher,,This is a profanity and should not be used
+fuckin,,This is a profanity and should not be used
+fuckina,,This is a profanity and should not be used
+fucking,,This is a profanity and should not be used
+fuckingbitch,,This is a profanity and should not be used
+fuckinnuts,,This is a profanity and should not be used
+fuckinright,,This is a profanity and should not be used
+fuckit,,This is a profanity and should not be used
+fuckknob,,This is a profanity and should not be used
+fuckme,,This is a profanity and should not be used
+fuckmehard,,This is a profanity and should not be used
+fuckmonkey,,This is a profanity and should not be used
+fuckoff,,This is a profanity and should not be used
+fuckpig,,This is a profanity and should not be used
+fucks,,This is a profanity and should not be used
+fucktard,,This is a profanity and should not be used
+fuckwhore,,This is a profanity and should not be used
+fuckyou,,This is a profanity and should not be used
+fudgepacker,,This is a profanity and should not be used
+fugly,,This is a profanity and should not be used
+fuk,,This is a profanity and should not be used
+fuks,,This is a profanity and should not be used
+funeral,,This is a profanity and should not be used
+funfuck,,This is a profanity and should not be used
+fungus,,This is a profanity and should not be used
+fuuck,,This is a profanity and should not be used
+gable,,This is a profanity and should not be used
+gables,,This is a profanity and should not be used
+gangbang,,This is a profanity and should not be used
+gangbanged,,This is a profanity and should not be used
+gangbanger,,This is a profanity and should not be used
+gangsta,,This is a profanity and should not be used
+gator bait,,This is a profanity and should not be used
+gatorbait,,This is a profanity and should not be used
+gay,,This is a profanity and should not be used
+gaymuthafuckinwhore,,This is a profanity and should not be used
+gaysex,,This is a profanity and should not be used
+geez,,This is a profanity and should not be used
+geezer,,This is a profanity and should not be used
+geni,,This is a profanity and should not be used
+genital,,This is a profanity and should not be used
+german,,This is a profanity and should not be used
+getiton,,This is a profanity and should not be used
+gin,,This is a profanity and should not be used
+ginzo,,This is a profanity and should not be used
+ginzos,,This is a profanity and should not be used
+gipp,,This is a profanity and should not be used
+gippo,,This is a profanity and should not be used
+gippos,,This is a profanity and should not be used
+gipps,,This is a profanity and should not be used
+girls,,This is a profanity and should not be used
+givehead,,This is a profanity and should not be used
+glazeddonut,,This is a profanity and should not be used
+gob,,This is a profanity and should not be used
+god,,This is a profanity and should not be used
+godammit,,This is a profanity and should not be used
+goddamit,,This is a profanity and should not be used
+goddammit,,This is a profanity and should not be used
+goddamn,,This is a profanity and should not be used
+goddamned,,This is a profanity and should not be used
+goddamnes,,This is a profanity and should not be used
+goddamnit,,This is a profanity and should not be used
+goddamnmuthafucker,,This is a profanity and should not be used
+goldenshower,,This is a profanity and should not be used
+golliwog,,This is a profanity and should not be used
+golliwogs,,This is a profanity and should not be used
+gonorrehea,,This is a profanity and should not be used
+gonzagas,,This is a profanity and should not be used
+gook,,This is a profanity and should not be used
+gook eye,,This is a profanity and should not be used
+gook eyes,,This is a profanity and should not be used
+gookeye,,This is a profanity and should not be used
+gookeyes,,This is a profanity and should not be used
+gookies,,This is a profanity and should not be used
+gooks,,This is a profanity and should not be used
+gooky,,This is a profanity and should not be used
+gora,,This is a profanity and should not be used
+goras,,This is a profanity and should not be used
+gotohell,,This is a profanity and should not be used
+goy,,This is a profanity and should not be used
+goyim,,This is a profanity and should not be used
+greaseball,,This is a profanity and should not be used
+greaseballs,,This is a profanity and should not be used
+greaser,,This is a profanity and should not be used
+greasers,,This is a profanity and should not be used
+gringo,,This is a profanity and should not be used
+gringos,,This is a profanity and should not be used
+groe,,This is a profanity and should not be used
+groid,,This is a profanity and should not be used
+groids,,This is a profanity and should not be used
+gross,,This is a profanity and should not be used
+grostulation,,This is a profanity and should not be used
+gub,,This is a profanity and should not be used
+gubba,,This is a profanity and should not be used
+gubbas,,This is a profanity and should not be used
+gubs,,This is a profanity and should not be used
+guinea,,This is a profanity and should not be used
+guineas,,This is a profanity and should not be used
+guizi,,This is a profanity and should not be used
+gummer,,This is a profanity and should not be used
+gun,,This is a profanity and should not be used
+gwailo,,This is a profanity and should not be used
+gwailos,,This is a profanity and should not be used
+gweilo,,This is a profanity and should not be used
+gweilos,,This is a profanity and should not be used
+gyopo,,This is a profanity and should not be used
+gyopos,,This is a profanity and should not be used
+gyp,,This is a profanity and should not be used
+gyped,,This is a profanity and should not be used
+gypo,,This is a profanity and should not be used
+gypos,,This is a profanity and should not be used
+gypp,,This is a profanity and should not be used
+gypped,,This is a profanity and should not be used
+gyppie,,This is a profanity and should not be used
+gyppies,,This is a profanity and should not be used
+gyppo,,This is a profanity and should not be used
+gyppos,,This is a profanity and should not be used
+gyppy,,This is a profanity and should not be used
+gyppys,,This is a profanity and should not be used
+gypsies,,This is a profanity and should not be used
+gypsy,,This is a profanity and should not be used
+gypsys,,This is a profanity and should not be used
+hadji,,This is a profanity and should not be used
+hadjis,,This is a profanity and should not be used
+hairyback,,This is a profanity and should not be used
+hairybacks,,This is a profanity and should not be used
+haji,,This is a profanity and should not be used
+hajis,,This is a profanity and should not be used
+hajji,,This is a profanity and should not be used
+hajjis,,This is a profanity and should not be used
+half breed,,This is a profanity and should not be used
+half caste,,This is a profanity and should not be used
+halfbreed,,This is a profanity and should not be used
+halfcaste,,This is a profanity and should not be used
+hamas,,This is a profanity and should not be used
+handjob,,This is a profanity and should not be used
+haole,,This is a profanity and should not be used
+haoles,,This is a profanity and should not be used
+hapa,,This is a profanity and should not be used
+harder,,This is a profanity and should not be used
+hardon,,This is a profanity and should not be used
+harem,,This is a profanity and should not be used
+headfuck,,This is a profanity and should not be used
+headlights,,This is a profanity and should not be used
+hebe,,This is a profanity and should not be used
+hebephila,,This is a profanity and should not be used
+hebephile,,This is a profanity and should not be used
+hebephiles,,This is a profanity and should not be used
+hebephilia,,This is a profanity and should not be used
+hebephilic,,This is a profanity and should not be used
+hebes,,This is a profanity and should not be used
+heeb,,This is a profanity and should not be used
+heebs,,This is a profanity and should not be used
+hell,,This is a profanity and should not be used
+henhouse,,This is a profanity and should not be used
+heroin,,This is a profanity and should not be used
+herpes,,This is a profanity and should not be used
+heterosexual,,This is a profanity and should not be used
+hijack,,This is a profanity and should not be used
+hijacker,,This is a profanity and should not be used
+hijacking,,This is a profanity and should not be used
+hillbillies,,This is a profanity and should not be used
+hillbilly,,This is a profanity and should not be used
+hindoo,,This is a profanity and should not be used
+hiscock,,This is a profanity and should not be used
+hitler,,This is a profanity and should not be used
+hitlerism,,This is a profanity and should not be used
+hitlerist,,This is a profanity and should not be used
+hiv,,This is a profanity and should not be used
+ho,,This is a profanity and should not be used
+hobo,,This is a profanity and should not be used
+hodgie,,This is a profanity and should not be used
+hoes,,This is a profanity and should not be used
+hole,,This is a profanity and should not be used
+holestuffer,,This is a profanity and should not be used
+homicide,,This is a profanity and should not be used
+homo,,This is a profanity and should not be used
+homobangers,,This is a profanity and should not be used
+homosexual,,This is a profanity and should not be used
+honger,,This is a profanity and should not be used
+honk,,This is a profanity and should not be used
+honkers,,This is a profanity and should not be used
+honkey,,This is a profanity and should not be used
+honkeys,,This is a profanity and should not be used
+honkie,,This is a profanity and should not be used
+honkies,,This is a profanity and should not be used
+honky,,This is a profanity and should not be used
+hook,,This is a profanity and should not be used
+hooker,,This is a profanity and should not be used
+hookers,,This is a profanity and should not be used
+hooters,,This is a profanity and should not be used
+hore,,This is a profanity and should not be used
+hori,,This is a profanity and should not be used
+horis,,This is a profanity and should not be used
+hork,,This is a profanity and should not be used
+horn,,This is a profanity and should not be used
+horney,,This is a profanity and should not be used
+horniest,,This is a profanity and should not be used
+horny,,This is a profanity and should not be used
+horseshit,,This is a profanity and should not be used
+hosejob,,This is a profanity and should not be used
+hoser,,This is a profanity and should not be used
+hostage,,This is a profanity and should not be used
+hotdamn,,This is a profanity and should not be used
+hotpussy,,This is a profanity and should not be used
+hottotrot,,This is a profanity and should not be used
+hummer,,This is a profanity and should not be used
+hun,,This is a profanity and should not be used
+huns,,This is a profanity and should not be used
+husky,,This is a profanity and should not be used
+hussy,,This is a profanity and should not be used
+hustler,,This is a profanity and should not be used
+hymen,,This is a profanity and should not be used
+hymie,,This is a profanity and should not be used
+hymies,,This is a profanity and should not be used
+iblowu,,This is a profanity and should not be used
+idiot,,This is a profanity and should not be used
+ike,,This is a profanity and should not be used
+ikes,,This is a profanity and should not be used
+ikey,,This is a profanity and should not be used
+ikeymo,,This is a profanity and should not be used
+ikeymos,,This is a profanity and should not be used
+ikwe,,This is a profanity and should not be used
+illegal,,This is a profanity and should not be used
+illegals,,This is a profanity and should not be used
+incest,,This is a profanity and should not be used
+indon,,This is a profanity and should not be used
+indons,,This is a profanity and should not be used
+injun,,This is a profanity and should not be used
+injuns,,This is a profanity and should not be used
+insest,,This is a profanity and should not be used
+intercourse,,This is a profanity and should not be used
+interracial,,This is a profanity and should not be used
+intheass,,This is a profanity and should not be used
+inthebuff,,This is a profanity and should not be used
+israel,,This is a profanity and should not be used
+israeli,,This is a profanity and should not be used
+israels,,This is a profanity and should not be used
+italiano,,This is a profanity and should not be used
+itch,,This is a profanity and should not be used
+jackass,,This is a profanity and should not be used
+jackoff,,This is a profanity and should not be used
+jackshit,,This is a profanity and should not be used
+jacktheripper,,This is a profanity and should not be used
+jade,,This is a profanity and should not be used
+jap,,This is a profanity and should not be used
+japanese,,This is a profanity and should not be used
+japcrap,,This is a profanity and should not be used
+japie,,This is a profanity and should not be used
+japies,,This is a profanity and should not be used
+japs,,This is a profanity and should not be used
+jebus,,This is a profanity and should not be used
+jeez,,This is a profanity and should not be used
+jerkoff,,This is a profanity and should not be used
+jerries,,This is a profanity and should not be used
+jerry,,This is a profanity and should not be used
+jesus,,This is a profanity and should not be used
+jesuschrist,,This is a profanity and should not be used
+jew,,This is a profanity and should not be used
+jewboy,,This is a profanity and should not be used
+jewed,,This is a profanity and should not be used
+jewess,,This is a profanity and should not be used
+jewish,,This is a profanity and should not be used
+jig,,This is a profanity and should not be used
+jiga,,This is a profanity and should not be used
+jigaboo,,This is a profanity and should not be used
+jigaboos,,This is a profanity and should not be used
+jigarooni,,This is a profanity and should not be used
+jigaroonis,,This is a profanity and should not be used
+jigg,,This is a profanity and should not be used
+jigga,,This is a profanity and should not be used
+jiggabo,,This is a profanity and should not be used
+jiggabos,,This is a profanity and should not be used
+jiggas,,This is a profanity and should not be used
+jigger,,This is a profanity and should not be used
+jiggers,,This is a profanity and should not be used
+jiggs,,This is a profanity and should not be used
+jiggy,,This is a profanity and should not be used
+jigs,,This is a profanity and should not be used
+jihad,,This is a profanity and should not be used
+jijjiboo,,This is a profanity and should not be used
+jijjiboos,,This is a profanity and should not be used
+jimfish,,This is a profanity and should not be used
+jism,,This is a profanity and should not be used
+jiz,,This is a profanity and should not be used
+jizim,,This is a profanity and should not be used
+jizjuice,,This is a profanity and should not be used
+jizm,,This is a profanity and should not be used
+jizz,,This is a profanity and should not be used
+jizzim,,This is a profanity and should not be used
+jizzum,,This is a profanity and should not be used
+joint,,This is a profanity and should not be used
+juggalo,,This is a profanity and should not be used
+jugs,,This is a profanity and should not be used
+jungle bunnies,,This is a profanity and should not be used
+jungle bunny,,This is a profanity and should not be used
+junglebunny,,This is a profanity and should not be used
+kacap,,This is a profanity and should not be used
+kacapas,,This is a profanity and should not be used
+kacaps,,This is a profanity and should not be used
+kaffer,,This is a profanity and should not be used
+kaffir,,This is a profanity and should not be used
+kaffre,,This is a profanity and should not be used
+kafir,,This is a profanity and should not be used
+kanake,,This is a profanity and should not be used
+katsap,,This is a profanity and should not be used
+katsaps,,This is a profanity and should not be used
+khokhol,,This is a profanity and should not be used
+khokhols,,This is a profanity and should not be used
+kid,,This is a profanity and should not be used
+kigger,,This is a profanity and should not be used
+kike,,This is a profanity and should not be used
+kikes,,This is a profanity and should not be used
+kill,,This is a profanity and should not be used
+killed,,This is a profanity and should not be used
+killer,,This is a profanity and should not be used
+killing,,This is a profanity and should not be used
+kills,,This is a profanity and should not be used
+kimchi,,This is a profanity and should not be used
+kimchis,,This is a profanity and should not be used
+kink,,This is a profanity and should not be used
+kinky,,This is a profanity and should not be used
+kissass,,This is a profanity and should not be used
+kkk,,This is a profanity and should not be used
+klansman,,This is a profanity and should not be used
+klansmen,,This is a profanity and should not be used
+klanswoman,,This is a profanity and should not be used
+klanswomen,,This is a profanity and should not be used
+knife,,This is a profanity and should not be used
+knockers,,This is a profanity and should not be used
+kock,,This is a profanity and should not be used
+kondum,,This is a profanity and should not be used
+koon,,This is a profanity and should not be used
+kotex,,This is a profanity and should not be used
+krap,,This is a profanity and should not be used
+krappy,,This is a profanity and should not be used
+kraut,,This is a profanity and should not be used
+krauts,,This is a profanity and should not be used
+kuffar,,This is a profanity and should not be used
+kum,,This is a profanity and should not be used
+kumbubble,,This is a profanity and should not be used
+kumbullbe,,This is a profanity and should not be used
+kummer,,This is a profanity and should not be used
+kumming,,This is a profanity and should not be used
+kumquat,,This is a profanity and should not be used
+kums,,This is a profanity and should not be used
+kunilingus,,This is a profanity and should not be used
+kunnilingus,,This is a profanity and should not be used
+kunt,,This is a profanity and should not be used
+kushi,,This is a profanity and should not be used
+kushis,,This is a profanity and should not be used
+kwa,,This is a profanity and should not be used
+kwai lo,,This is a profanity and should not be used
+kwai los,,This is a profanity and should not be used
+ky,,This is a profanity and should not be used
+kyke,,This is a profanity and should not be used
+kykes,,This is a profanity and should not be used
+kyopo,,This is a profanity and should not be used
+kyopos,,This is a profanity and should not be used
+lactate,,This is a profanity and should not be used
+laid,,This is a profanity and should not be used
+lapdance,,This is a profanity and should not be used
+latin,,This is a profanity and should not be used
+lebo,,This is a profanity and should not be used
+lebos,,This is a profanity and should not be used
+lesbain,,This is a profanity and should not be used
+lesbayn,,This is a profanity and should not be used
+lesbian,,This is a profanity and should not be used
+lesbin,,This is a profanity and should not be used
+lesbo,,This is a profanity and should not be used
+lez,,This is a profanity and should not be used
+lezbe,,This is a profanity and should not be used
+lezbefriends,,This is a profanity and should not be used
+lezbo,,This is a profanity and should not be used
+lezz,,This is a profanity and should not be used
+lezzo,,This is a profanity and should not be used
+liberal,,This is a profanity and should not be used
+libido,,This is a profanity and should not be used
+licker,,This is a profanity and should not be used
+lickme,,This is a profanity and should not be used
+lies,,This is a profanity and should not be used
+limey,,This is a profanity and should not be used
+limpdick,,This is a profanity and should not be used
+limy,,This is a profanity and should not be used
+lingerie,,This is a profanity and should not be used
+liquor,,This is a profanity and should not be used
+livesex,,This is a profanity and should not be used
+loadedgun,,This is a profanity and should not be used
+lolita,,This is a profanity and should not be used
+looser,,This is a profanity and should not be used
+loser,,This is a profanity and should not be used
+lotion,,This is a profanity and should not be used
+lovebone,,This is a profanity and should not be used
+lovegoo,,This is a profanity and should not be used
+lovegun,,This is a profanity and should not be used
+lovejuice,,This is a profanity and should not be used
+lovemuscle,,This is a profanity and should not be used
+lovepistol,,This is a profanity and should not be used
+loverocket,,This is a profanity and should not be used
+lowlife,,This is a profanity and should not be used
+lsd,,This is a profanity and should not be used
+lubejob,,This is a profanity and should not be used
+lubra,,This is a profanity and should not be used
+lucifer,,This is a profanity and should not be used
+luckycammeltoe,,This is a profanity and should not be used
+lugan,,This is a profanity and should not be used
+lugans,,This is a profanity and should not be used
+lynch,,This is a profanity and should not be used
+mabuno,,This is a profanity and should not be used
+mabunos,,This is a profanity and should not be used
+macaca,,This is a profanity and should not be used
+macacas,,This is a profanity and should not be used
+mad,,This is a profanity and should not be used
+mafia,,This is a profanity and should not be used
+magicwand,,This is a profanity and should not be used
+mahbuno,,This is a profanity and should not be used
+mahbunos,,This is a profanity and should not be used
+mams,,This is a profanity and should not be used
+manhater,,This is a profanity and should not be used
+manpaste,,This is a profanity and should not be used
+marijuana,,This is a profanity and should not be used
+mastabate,,This is a profanity and should not be used
+mastabater,,This is a profanity and should not be used
+masterbate,,This is a profanity and should not be used
+masterblaster,,This is a profanity and should not be used
+mastrabator,,This is a profanity and should not be used
+masturbate,,This is a profanity and should not be used
+masturbating,,This is a profanity and should not be used
+mattressprincess,,This is a profanity and should not be used
+mau mau,,This is a profanity and should not be used
+mau maus,,This is a profanity and should not be used
+maumau,,This is a profanity and should not be used
+maumaus,,This is a profanity and should not be used
+meatbeatter,,This is a profanity and should not be used
+meatrack,,This is a profanity and should not be used
+meth,,This is a profanity and should not be used
+mexican,,This is a profanity and should not be used
+mgger,,This is a profanity and should not be used
+mggor,,This is a profanity and should not be used
+mick,,This is a profanity and should not be used
+mickeyfinn,,This is a profanity and should not be used
+mideast,,This is a profanity and should not be used
+milf,,This is a profanity and should not be used
+minority,,This is a profanity and should not be used
+mockey,,This is a profanity and should not be used
+mockie,,This is a profanity and should not be used
+mocky,,This is a profanity and should not be used
+mofo,,This is a profanity and should not be used
+moky,,This is a profanity and should not be used
+moles,,This is a profanity and should not be used
+molest,,This is a profanity and should not be used
+molestation,,This is a profanity and should not be used
+molester,,This is a profanity and should not be used
+molestor,,This is a profanity and should not be used
+moneyshot,,This is a profanity and should not be used
+moon cricket,,This is a profanity and should not be used
+moon crickets,,This is a profanity and should not be used
+mooncricket,,This is a profanity and should not be used
+mooncrickets,,This is a profanity and should not be used
+mormon,,This is a profanity and should not be used
+moron,,This is a profanity and should not be used
+moskal,,This is a profanity and should not be used
+moskals,,This is a profanity and should not be used
+moslem,,This is a profanity and should not be used
+mosshead,,This is a profanity and should not be used
+mothafuck,,This is a profanity and should not be used
+mothafucka,,This is a profanity and should not be used
+mothafuckaz,,This is a profanity and should not be used
+mothafucked,,This is a profanity and should not be used
+mothafucker,,This is a profanity and should not be used
+mothafuckin,,This is a profanity and should not be used
+mothafucking,,This is a profanity and should not be used
+mothafuckings,,This is a profanity and should not be used
+motherfuck,,This is a profanity and should not be used
+motherfucked,,This is a profanity and should not be used
+motherfucker,,This is a profanity and should not be used
+motherfuckin,,This is a profanity and should not be used
+motherfucking,,This is a profanity and should not be used
+motherfuckings,,This is a profanity and should not be used
+motherlovebone,,This is a profanity and should not be used
+muff,,This is a profanity and should not be used
+muffdive,,This is a profanity and should not be used
+muffdiver,,This is a profanity and should not be used
+muffindiver,,This is a profanity and should not be used
+mufflikcer,,This is a profanity and should not be used
+mulatto,,This is a profanity and should not be used
+muncher,,This is a profanity and should not be used
+munt,,This is a profanity and should not be used
+murder,,This is a profanity and should not be used
+murderer,,This is a profanity and should not be used
+muslim,,This is a profanity and should not be used
+mzungu,,This is a profanity and should not be used
+mzungus,,This is a profanity and should not be used
+naked,,This is a profanity and should not be used
+narcotic,,This is a profanity and should not be used
+nasty,,This is a profanity and should not be used
+nastybitch,,This is a profanity and should not be used
+nastyho,,This is a profanity and should not be used
+nastyslut,,This is a profanity and should not be used
+nastywhore,,This is a profanity and should not be used
+nazi,,This is a profanity and should not be used
+necro,,This is a profanity and should not be used
+negres,,This is a profanity and should not be used
+negress,,This is a profanity and should not be used
+negro,,This is a profanity and should not be used
+negroes,,This is a profanity and should not be used
+negroid,,This is a profanity and should not be used
+negros,,This is a profanity and should not be used
+nig,,This is a profanity and should not be used
+nigar,,This is a profanity and should not be used
+nigars,,This is a profanity and should not be used
+niger,,This is a profanity and should not be used
+nigerian,,This is a profanity and should not be used
+nigerians,,This is a profanity and should not be used
+nigers,,This is a profanity and should not be used
+nigette,,This is a profanity and should not be used
+nigettes,,This is a profanity and should not be used
+nigg,,This is a profanity and should not be used
+nigga,,This is a profanity and should not be used
+niggah,,This is a profanity and should not be used
+niggahs,,This is a profanity and should not be used
+niggar,,This is a profanity and should not be used
+niggaracci,,This is a profanity and should not be used
+niggard,,This is a profanity and should not be used
+niggarded,,This is a profanity and should not be used
+niggarding,,This is a profanity and should not be used
+niggardliness,,This is a profanity and should not be used
+niggardlinesss,,This is a profanity and should not be used
+niggardly,,This is a profanity and should not be used
+niggards,,This is a profanity and should not be used
+niggars,,This is a profanity and should not be used
+niggas,,This is a profanity and should not be used
+niggaz,,This is a profanity and should not be used
+nigger,,This is a profanity and should not be used
+niggerhead,,This is a profanity and should not be used
+niggerhole,,This is a profanity and should not be used
+niggers,,This is a profanity and should not be used
+niggle,,This is a profanity and should not be used
+niggled,,This is a profanity and should not be used
+niggles,,This is a profanity and should not be used
+niggling,,This is a profanity and should not be used
+nigglings,,This is a profanity and should not be used
+niggor,,This is a profanity and should not be used
+niggress,,This is a profanity and should not be used
+niggresses,,This is a profanity and should not be used
+nigguh,,This is a profanity and should not be used
+nigguhs,,This is a profanity and should not be used
+niggur,,This is a profanity and should not be used
+niggurs,,This is a profanity and should not be used
+niglet,,This is a profanity and should not be used
+nignog,,This is a profanity and should not be used
+nigor,,This is a profanity and should not be used
+nigors,,This is a profanity and should not be used
+nigr,,This is a profanity and should not be used
+nigra,,This is a profanity and should not be used
+nigras,,This is a profanity and should not be used
+nigre,,This is a profanity and should not be used
+nigres,,This is a profanity and should not be used
+nigress,,This is a profanity and should not be used
+nigs,,This is a profanity and should not be used
+nip,,This is a profanity and should not be used
+nipple,,This is a profanity and should not be used
+nipplering,,This is a profanity and should not be used
+nittit,,This is a profanity and should not be used
+nlgger,,This is a profanity and should not be used
+nlggor,,This is a profanity and should not be used
+nofuckingway,,This is a profanity and should not be used
+nook,,This is a profanity and should not be used
+nookey,,This is a profanity and should not be used
+nookie,,This is a profanity and should not be used
+noonan,,This is a profanity and should not be used
+nooner,,This is a profanity and should not be used
+nude,,This is a profanity and should not be used
+nudger,,This is a profanity and should not be used
+nuke,,This is a profanity and should not be used
+nutfucker,,This is a profanity and should not be used
+nymph,,This is a profanity and should not be used
+ontherag,,This is a profanity and should not be used
+oral,,This is a profanity and should not be used
+oreo,,This is a profanity and should not be used
+oreos,,This is a profanity and should not be used
+orga,,This is a profanity and should not be used
+orgasim,,This is a profanity and should not be used
+orgasm,,This is a profanity and should not be used
+orgies,,This is a profanity and should not be used
+orgy,,This is a profanity and should not be used
+osama,,This is a profanity and should not be used
+paddy,,This is a profanity and should not be used
+paederastic,,This is a profanity and should not be used
+paederasts,,This is a profanity and should not be used
+paederasty,,This is a profanity and should not be used
+paki,,This is a profanity and should not be used
+pakis,,This is a profanity and should not be used
+palesimian,,This is a profanity and should not be used
+palestinian,,This is a profanity and should not be used
+pancake face,,This is a profanity and should not be used
+pancake faces,,This is a profanity and should not be used
+pansies,,This is a profanity and should not be used
+pansy,,This is a profanity and should not be used
+panti,,This is a profanity and should not be used
+panties,,This is a profanity and should not be used
+payo,,This is a profanity and should not be used
+pearlnecklace,,This is a profanity and should not be used
+peck,,This is a profanity and should not be used
+pecker,,This is a profanity and should not be used
+peckerwood,,This is a profanity and should not be used
+pederastic,,This is a profanity and should not be used
+pederasts,,This is a profanity and should not be used
+pederasty,,This is a profanity and should not be used
+pedo,,This is a profanity and should not be used
+pedophile,,This is a profanity and should not be used
+pedophiles,,This is a profanity and should not be used
+pedophilia,,This is a profanity and should not be used
+pedophilic,,This is a profanity and should not be used
+pee,,This is a profanity and should not be used
+peehole,,This is a profanity and should not be used
+peepee,,This is a profanity and should not be used
+peepshow,,This is a profanity and should not be used
+peepshpw,,This is a profanity and should not be used
+pendy,,This is a profanity and should not be used
+penetration,,This is a profanity and should not be used
+peni5,,This is a profanity and should not be used
+penile,,This is a profanity and should not be used
+penis,,This is a profanity and should not be used
+penises,,This is a profanity and should not be used
+penthouse,,This is a profanity and should not be used
+period,,This is a profanity and should not be used
+perv,,This is a profanity and should not be used
+phonesex,,This is a profanity and should not be used
+phuk,,This is a profanity and should not be used
+phuked,,This is a profanity and should not be used
+phuking,,This is a profanity and should not be used
+phukked,,This is a profanity and should not be used
+phukking,,This is a profanity and should not be used
+phungky,,This is a profanity and should not be used
+phuq,,This is a profanity and should not be used
+pi55,,This is a profanity and should not be used
+picaninny,,This is a profanity and should not be used
+piccaninny,,This is a profanity and should not be used
+pickaninnies,,This is a profanity and should not be used
+pickaninny,,This is a profanity and should not be used
+piefke,,This is a profanity and should not be used
+piefkes,,This is a profanity and should not be used
+piker,,This is a profanity and should not be used
+pikey,,This is a profanity and should not be used
+piky,,This is a profanity and should not be used
+pimp,,This is a profanity and should not be used
+pimped,,This is a profanity and should not be used
+pimper,,This is a profanity and should not be used
+pimpjuic,,This is a profanity and should not be used
+pimpjuice,,This is a profanity and should not be used
+pimpsimp,,This is a profanity and should not be used
+pindick,,This is a profanity and should not be used
+piss,,This is a profanity and should not be used
+pissed,,This is a profanity and should not be used
+pisser,,This is a profanity and should not be used
+pisses,,This is a profanity and should not be used
+pisshead,,This is a profanity and should not be used
+pissin,,This is a profanity and should not be used
+pissing,,This is a profanity and should not be used
+pissoff,,This is a profanity and should not be used
+pistol,,This is a profanity and should not be used
+pixie,,This is a profanity and should not be used
+pixy,,This is a profanity and should not be used
+playboy,,This is a profanity and should not be used
+playgirl,,This is a profanity and should not be used
+pocha,,This is a profanity and should not be used
+pochas,,This is a profanity and should not be used
+pocho,,This is a profanity and should not be used
+pochos,,This is a profanity and should not be used
+pocketpool,,This is a profanity and should not be used
+pohm,,This is a profanity and should not be used
+pohms,,This is a profanity and should not be used
+polack,,This is a profanity and should not be used
+polacks,,This is a profanity and should not be used
+pollock,,This is a profanity and should not be used
+pollocks,,This is a profanity and should not be used
+pom,,This is a profanity and should not be used
+pommie,,This is a profanity and should not be used
+pommie grant,,This is a profanity and should not be used
+pommie grants,,This is a profanity and should not be used
+pommies,,This is a profanity and should not be used
+pommy,,This is a profanity and should not be used
+poms,,This is a profanity and should not be used
+poo,,This is a profanity and should not be used
+poon,,This is a profanity and should not be used
+poontang,,This is a profanity and should not be used
+poop,,This is a profanity and should not be used
+pooper,,This is a profanity and should not be used
+pooperscooper,,This is a profanity and should not be used
+pooping,,This is a profanity and should not be used
+poorwhitetrash,,This is a profanity and should not be used
+popimp,,This is a profanity and should not be used
+porch monkey,,This is a profanity and should not be used
+porch monkies,,This is a profanity and should not be used
+porchmonkey,,This is a profanity and should not be used
+porn,,This is a profanity and should not be used
+pornflick,,This is a profanity and should not be used
+pornking,,This is a profanity and should not be used
+porno,,This is a profanity and should not be used
+pornography,,This is a profanity and should not be used
+pornprincess,,This is a profanity and should not be used
+pot,,This is a profanity and should not be used
+poverty,,This is a profanity and should not be used
+prairie nigger,,This is a profanity and should not be used
+prairie niggers,,This is a profanity and should not be used
+premature,,This is a profanity and should not be used
+pric,,This is a profanity and should not be used
+prick,,This is a profanity and should not be used
+prickhead,,This is a profanity and should not be used
+primetime,,This is a profanity and should not be used
+propaganda,,This is a profanity and should not be used
+pros,,This is a profanity and should not be used
+prostitute,,This is a profanity and should not be used
+protestant,,This is a profanity and should not be used
+pu55i,,This is a profanity and should not be used
+pu55y,,This is a profanity and should not be used
+pube,,This is a profanity and should not be used
+pubic,,This is a profanity and should not be used
+pubiclice,,This is a profanity and should not be used
+pud,,This is a profanity and should not be used
+pudboy,,This is a profanity and should not be used
+pudd,,This is a profanity and should not be used
+puddboy,,This is a profanity and should not be used
+puke,,This is a profanity and should not be used
+puntang,,This is a profanity and should not be used
+purinapricness,,This is a profanity and should not be used
+puss,,This is a profanity and should not be used
+pussie,,This is a profanity and should not be used
+pussies,,This is a profanity and should not be used
+pussy,,This is a profanity and should not be used
+pussycat,,This is a profanity and should not be used
+pussyeater,,This is a profanity and should not be used
+pussyfucker,,This is a profanity and should not be used
+pussylicker,,This is a profanity and should not be used
+pussylips,,This is a profanity and should not be used
+pussylover,,This is a profanity and should not be used
+pussypounder,,This is a profanity and should not be used
+pusy,,This is a profanity and should not be used
+quashie,,This is a profanity and should not be used
+que,,This is a profanity and should not be used
+queef,,This is a profanity and should not be used
+queer,,This is a profanity and should not be used
+quickie,,This is a profanity and should not be used
+quim,,This is a profanity and should not be used
+ra8s,,This is a profanity and should not be used
+rabbi,,This is a profanity and should not be used
+racial,,This is a profanity and should not be used
+racist,,This is a profanity and should not be used
+radical,,This is a profanity and should not be used
+radicals,,This is a profanity and should not be used
+raghead,,This is a profanity and should not be used
+ragheads,,This is a profanity and should not be used
+randy,,This is a profanity and should not be used
+rape,,This is a profanity and should not be used
+raped,,This is a profanity and should not be used
+raper,,This is a profanity and should not be used
+rapist,,This is a profanity and should not be used
+rearend,,This is a profanity and should not be used
+rearentry,,This is a profanity and should not be used
+rectum,,This is a profanity and should not be used
+redleg,,This is a profanity and should not be used
+redlegs,,This is a profanity and should not be used
+redlight,,This is a profanity and should not be used
+redneck,,This is a profanity and should not be used
+rednecks,,This is a profanity and should not be used
+redskin,,This is a profanity and should not be used
+redskins,,This is a profanity and should not be used
+reefer,,This is a profanity and should not be used
+reestie,,This is a profanity and should not be used
+refugee,,This is a profanity and should not be used
+reject,,This is a profanity and should not be used
+remains,,This is a profanity and should not be used
+rentafuck,,This is a profanity and should not be used
+republican,,This is a profanity and should not be used
+rere,,This is a profanity and should not be used
+retard,,This is a profanity and should not be used
+retarded,,This is a profanity and should not be used
+ribbed,,This is a profanity and should not be used
+rigger,,This is a profanity and should not be used
+rimjob,,This is a profanity and should not be used
+rimming,,This is a profanity and should not be used
+roach,,This is a profanity and should not be used
+robber,,This is a profanity and should not be used
+round eyes,,This is a profanity and should not be used
+roundeye,,This is a profanity and should not be used
+rump,,This is a profanity and should not be used
+russki,,This is a profanity and should not be used
+russkie,,This is a profanity and should not be used
+sadis,,This is a profanity and should not be used
+sadom,,This is a profanity and should not be used
+sambo,,This is a profanity and should not be used
+sambos,,This is a profanity and should not be used
+samckdaddy,,This is a profanity and should not be used
+sand nigger,,This is a profanity and should not be used
+sand niggers,,This is a profanity and should not be used
+sandm,,This is a profanity and should not be used
+sandnigger,,This is a profanity and should not be used
+satan,,This is a profanity and should not be used
+scag,,This is a profanity and should not be used
+scallywag,,This is a profanity and should not be used
+scat,,This is a profanity and should not be used
+schlong,,This is a profanity and should not be used
+schvartse,,This is a profanity and should not be used
+schvartsen,,This is a profanity and should not be used
+schwartze,,This is a profanity and should not be used
+schwartzen,,This is a profanity and should not be used
+screw,,This is a profanity and should not be used
+screwyou,,This is a profanity and should not be used
+scrotum,,This is a profanity and should not be used
+scum,,This is a profanity and should not be used
+semen,,This is a profanity and should not be used
+seppo,,This is a profanity and should not be used
+seppos,,This is a profanity and should not be used
+septic,,This is a profanity and should not be used
+septics,,This is a profanity and should not be used
+servant,,This is a profanity and should not be used
+sex,,This is a profanity and should not be used
+sexed,,This is a profanity and should not be used
+sexfarm,,This is a profanity and should not be used
+sexhound,,This is a profanity and should not be used
+sexhouse,,This is a profanity and should not be used
+sexing,,This is a profanity and should not be used
+sexkitten,,This is a profanity and should not be used
+sexpot,,This is a profanity and should not be used
+sexslave,,This is a profanity and should not be used
+sextogo,,This is a profanity and should not be used
+sextoy,,This is a profanity and should not be used
+sextoys,,This is a profanity and should not be used
+sexual,,This is a profanity and should not be used
+sexually,,This is a profanity and should not be used
+sexwhore,,This is a profanity and should not be used
+sexy,,This is a profanity and should not be used
+sexymoma,,This is a profanity and should not be used
+sexyslim,,This is a profanity and should not be used
+shag,,This is a profanity and should not be used
+shaggin,,This is a profanity and should not be used
+shagging,,This is a profanity and should not be used
+shat,,This is a profanity and should not be used
+shav,,This is a profanity and should not be used
+shawtypimp,,This is a profanity and should not be used
+sheeney,,This is a profanity and should not be used
+shhit,,This is a profanity and should not be used
+shiksa,,This is a profanity and should not be used
+shinola,,This is a profanity and should not be used
+shit,,This is a profanity and should not be used
+shitcan,,This is a profanity and should not be used
+shitdick,,This is a profanity and should not be used
+shite,,This is a profanity and should not be used
+shiteater,,This is a profanity and should not be used
+shited,,This is a profanity and should not be used
+shitface,,This is a profanity and should not be used
+shitfaced,,This is a profanity and should not be used
+shitfit,,This is a profanity and should not be used
+shitforbrains,,This is a profanity and should not be used
+shitfuck,,This is a profanity and should not be used
+shitfucker,,This is a profanity and should not be used
+shitfull,,This is a profanity and should not be used
+shithapens,,This is a profanity and should not be used
+shithappens,,This is a profanity and should not be used
+shithead,,This is a profanity and should not be used
+shithouse,,This is a profanity and should not be used
+shiting,,This is a profanity and should not be used
+shitlist,,This is a profanity and should not be used
+shitola,,This is a profanity and should not be used
+shitoutofluck,,This is a profanity and should not be used
+shits,,This is a profanity and should not be used
+shitstain,,This is a profanity and should not be used
+shitted,,This is a profanity and should not be used
+shitter,,This is a profanity and should not be used
+shitting,,This is a profanity and should not be used
+shitty,,This is a profanity and should not be used
+shoot,,This is a profanity and should not be used
+shooting,,This is a profanity and should not be used
+shortfuck,,This is a profanity and should not be used
+showtime,,This is a profanity and should not be used
+shylock,,This is a profanity and should not be used
+shylocks,,This is a profanity and should not be used
+sick,,This is a profanity and should not be used
+sissy,,This is a profanity and should not be used
+sixsixsix,,This is a profanity and should not be used
+sixtynine,,This is a profanity and should not be used
+sixtyniner,,This is a profanity and should not be used
+skank,,This is a profanity and should not be used
+skankbitch,,This is a profanity and should not be used
+skankfuck,,This is a profanity and should not be used
+skankwhore,,This is a profanity and should not be used
+skanky,,This is a profanity and should not be used
+skankybitch,,This is a profanity and should not be used
+skankywhore,,This is a profanity and should not be used
+skinflute,,This is a profanity and should not be used
+skum,,This is a profanity and should not be used
+skumbag,,This is a profanity and should not be used
+skwa,,This is a profanity and should not be used
+skwe,,This is a profanity and should not be used
+slant,,This is a profanity and should not be used
+slanteye,,This is a profanity and should not be used
+slanty,,This is a profanity and should not be used
+slapper,,This is a profanity and should not be used
+slaughter,,This is a profanity and should not be used
+slav,,This is a profanity and should not be used
+slave,,This is a profanity and should not be used
+slavedriver,,This is a profanity and should not be used
+sleezebag,,This is a profanity and should not be used
+sleezeball,,This is a profanity and should not be used
+slideitin,,This is a profanity and should not be used
+slime,,This is a profanity and should not be used
+slimeball,,This is a profanity and should not be used
+slimebucket,,This is a profanity and should not be used
+slope,,This is a profanity and should not be used
+slopehead,,This is a profanity and should not be used
+slopeheads,,This is a profanity and should not be used
+sloper,,This is a profanity and should not be used
+slopers,,This is a profanity and should not be used
+slopes,,This is a profanity and should not be used
+slopey,,This is a profanity and should not be used
+slopeys,,This is a profanity and should not be used
+slopies,,This is a profanity and should not be used
+slopy,,This is a profanity and should not be used
+slut,,This is a profanity and should not be used
+sluts,,This is a profanity and should not be used
+slutt,,This is a profanity and should not be used
+slutting,,This is a profanity and should not be used
+slutty,,This is a profanity and should not be used
+slutwear,,This is a profanity and should not be used
+slutwhore,,This is a profanity and should not be used
+smack,,This is a profanity and should not be used
+smackthemonkey,,This is a profanity and should not be used
+smut,,This is a profanity and should not be used
+snatch,,This is a profanity and should not be used
+snatchpatch,,This is a profanity and should not be used
+snigger,,This is a profanity and should not be used
+sniggered,,This is a profanity and should not be used
+sniggering,,This is a profanity and should not be used
+sniggers,,This is a profanity and should not be used
+sniper,,This is a profanity and should not be used
+snot,,This is a profanity and should not be used
+snowback,,This is a profanity and should not be used
+snownigger,,This is a profanity and should not be used
+sob,,This is a profanity and should not be used
+sodom,,This is a profanity and should not be used
+sodomise,,This is a profanity and should not be used
+sodomite,,This is a profanity and should not be used
+sodomize,,This is a profanity and should not be used
+sodomy,,This is a profanity and should not be used
+sonofabitch,,This is a profanity and should not be used
+sonofbitch,,This is a profanity and should not be used
+sooties,,This is a profanity and should not be used
+sooty,,This is a profanity and should not be used
+sos,,This is a profanity and should not be used
+soviet,,This is a profanity and should not be used
+spa,,This is a profanity and should not be used
+spade,,This is a profanity and should not be used
+spades,,This is a profanity and should not be used
+spaghettibender,,This is a profanity and should not be used
+spaghettinigger,,This is a profanity and should not be used
+spank,,This is a profanity and should not be used
+spankthemonkey,,This is a profanity and should not be used
+spearchucker,,This is a profanity and should not be used
+spearchuckers,,This is a profanity and should not be used
+sperm,,This is a profanity and should not be used
+spermacide,,This is a profanity and should not be used
+spermbag,,This is a profanity and should not be used
+spermhearder,,This is a profanity and should not be used
+spermherder,,This is a profanity and should not be used
+spic,,This is a profanity and should not be used
+spick,,This is a profanity and should not be used
+spicks,,This is a profanity and should not be used
+spics,,This is a profanity and should not be used
+spig,,This is a profanity and should not be used
+spigotty,,This is a profanity and should not be used
+spik,,This is a profanity and should not be used
+spit,,This is a profanity and should not be used
+spitter,,This is a profanity and should not be used
+splittail,,This is a profanity and should not be used
+spooge,,This is a profanity and should not be used
+spreadeagle,,This is a profanity and should not be used
+spunk,,This is a profanity and should not be used
+spunky,,This is a profanity and should not be used
+sqeh,,This is a profanity and should not be used
+squa,,This is a profanity and should not be used
+squarehead,,This is a profanity and should not be used
+squareheads,,This is a profanity and should not be used
+squaw,,This is a profanity and should not be used
+squinty,,This is a profanity and should not be used
+stagg,,This is a profanity and should not be used
+stiffy,,This is a profanity and should not be used
+strapon,,This is a profanity and should not be used
+stringer,,This is a profanity and should not be used
+stripclub,,This is a profanity and should not be used
+stroke,,This is a profanity and should not be used
+stroking,,This is a profanity and should not be used
+stuinties,,This is a profanity and should not be used
+stupid,,This is a profanity and should not be used
+stupidfuck,,This is a profanity and should not be used
+stupidfucker,,This is a profanity and should not be used
+suck,,This is a profanity and should not be used
+suckdick,,This is a profanity and should not be used
+sucker,,This is a profanity and should not be used
+suckme,,This is a profanity and should not be used
+suckmyass,,This is a profanity and should not be used
+suckmydick,,This is a profanity and should not be used
+suckmytit,,This is a profanity and should not be used
+suckoff,,This is a profanity and should not be used
+suicide,,This is a profanity and should not be used
+swallow,,This is a profanity and should not be used
+swallower,,This is a profanity and should not be used
+swalow,,This is a profanity and should not be used
+swamp guinea,,This is a profanity and should not be used
+swamp guineas,,This is a profanity and should not be used
+swastika,,This is a profanity and should not be used
+sweetness,,This is a profanity and should not be used
+syphilis,,This is a profanity and should not be used
+taboo,,This is a profanity and should not be used
+tacohead,,This is a profanity and should not be used
+tacoheads,,This is a profanity and should not be used
+taff,,This is a profanity and should not be used
+tampon,,This is a profanity and should not be used
+tang,,This is a profanity and should not be used
+tantra,,This is a profanity and should not be used
+tar babies,,This is a profanity and should not be used
+tar baby,,This is a profanity and should not be used
+tarbaby,,This is a profanity and should not be used
+tard,,This is a profanity and should not be used
+teat,,This is a profanity and should not be used
+terror,,This is a profanity and should not be used
+terrorist,,This is a profanity and should not be used
+teste,,This is a profanity and should not be used
+testicle,,This is a profanity and should not be used
+testicles,,This is a profanity and should not be used
+thicklip,,This is a profanity and should not be used
+thicklips,,This is a profanity and should not be used
+thirdeye,,This is a profanity and should not be used
+thirdleg,,This is a profanity and should not be used
+threesome,,This is a profanity and should not be used
+threeway,,This is a profanity and should not be used
+timber nigger,,This is a profanity and should not be used
+timber niggers,,This is a profanity and should not be used
+timbernigger,,This is a profanity and should not be used
+tinker,,This is a profanity and should not be used
+tinkers,,This is a profanity and should not be used
+tinkle,,This is a profanity and should not be used
+tit,,This is a profanity and should not be used
+titbitnipply,,This is a profanity and should not be used
+titfuck,,This is a profanity and should not be used
+titfucker,,This is a profanity and should not be used
+titfuckin,,This is a profanity and should not be used
+titjob,,This is a profanity and should not be used
+titlicker,,This is a profanity and should not be used
+titlover,,This is a profanity and should not be used
+tits,,This is a profanity and should not be used
+tittie,,This is a profanity and should not be used
+titties,,This is a profanity and should not be used
+titty,,This is a profanity and should not be used
+tnt,,This is a profanity and should not be used
+toilet,,This is a profanity and should not be used
+tongethruster,,This is a profanity and should not be used
+tongue,,This is a profanity and should not be used
+tonguethrust,,This is a profanity and should not be used
+tonguetramp,,This is a profanity and should not be used
+tortur,,This is a profanity and should not be used
+torture,,This is a profanity and should not be used
+tosser,,This is a profanity and should not be used
+towel head,,This is a profanity and should not be used
+towel heads,,This is a profanity and should not be used
+towelhead,,This is a profanity and should not be used
+trailertrash,,This is a profanity and should not be used
+tramp,,This is a profanity and should not be used
+trannie,,This is a profanity and should not be used
+tranny,,This is a profanity and should not be used
+transexual,,This is a profanity and should not be used
+transsexual,,This is a profanity and should not be used
+transvestite,,This is a profanity and should not be used
+trap,,This is a profanity and should not be used
+triplex,,This is a profanity and should not be used
+trisexual,,This is a profanity and should not be used
+trojan,,This is a profanity and should not be used
+trots,,This is a profanity and should not be used
+tuckahoe,,This is a profanity and should not be used
+tunneloflove,,This is a profanity and should not be used
+turd,,This is a profanity and should not be used
+turnon,,This is a profanity and should not be used
+twat,,This is a profanity and should not be used
+twink,,This is a profanity and should not be used
+twinkie,,This is a profanity and should not be used
+twobitwhore,,This is a profanity and should not be used
+uck,,This is a profanity and should not be used
+uk,,This is a profanity and should not be used
+ukrop,,This is a profanity and should not be used
+uncle tom,,This is a profanity and should not be used
+unfuckable,,This is a profanity and should not be used
+upskirt,,This is a profanity and should not be used
+uptheass,,This is a profanity and should not be used
+upthebutt,,This is a profanity and should not be used
+urinary,,This is a profanity and should not be used
+urinate,,This is a profanity and should not be used
+urine,,This is a profanity and should not be used
+usama,,This is a profanity and should not be used
+uterus,,This is a profanity and should not be used
+vagina,,This is a profanity and should not be used
+vaginal,,This is a profanity and should not be used
+vatican,,This is a profanity and should not be used
+vibr,,This is a profanity and should not be used
+vibrater,,This is a profanity and should not be used
+vibrator,,This is a profanity and should not be used
+vietcong,,This is a profanity and should not be used
+violence,,This is a profanity and should not be used
+virgin,,This is a profanity and should not be used
+virginbreaker,,This is a profanity and should not be used
+vomit,,This is a profanity and should not be used
+vulva,,This is a profanity and should not be used
+wab,,This is a profanity and should not be used
+wank,,This is a profanity and should not be used
+wanker,,This is a profanity and should not be used
+wanking,,This is a profanity and should not be used
+waysted,,This is a profanity and should not be used
+weapon,,This is a profanity and should not be used
+weenie,,This is a profanity and should not be used
+weewee,,This is a profanity and should not be used
+welcher,,This is a profanity and should not be used
+welfare,,This is a profanity and should not be used
+wetb,,This is a profanity and should not be used
+wetback,,This is a profanity and should not be used
+wetbacks,,This is a profanity and should not be used
+wetspot,,This is a profanity and should not be used
+whacker,,This is a profanity and should not be used
+whash,,This is a profanity and should not be used
+whigger,,This is a profanity and should not be used
+whiggers,,This is a profanity and should not be used
+whiskey,,This is a profanity and should not be used
+whiskeydick,,This is a profanity and should not be used
+whiskydick,,This is a profanity and should not be used
+whit,,This is a profanity and should not be used
+white trash,,This is a profanity and should not be used
+whitenigger,,This is a profanity and should not be used
+whites,,This is a profanity and should not be used
+whitetrash,,This is a profanity and should not be used
+whitey,,This is a profanity and should not be used
+whiteys,,This is a profanity and should not be used
+whities,,This is a profanity and should not be used
+whiz,,This is a profanity and should not be used
+whop,,This is a profanity and should not be used
+whore,,This is a profanity and should not be used
+whorefucker,,This is a profanity and should not be used
+whorehouse,,This is a profanity and should not be used
+wigga,,This is a profanity and should not be used
+wiggas,,This is a profanity and should not be used
+wigger,,This is a profanity and should not be used
+wiggers,,This is a profanity and should not be used
+willie,,This is a profanity and should not be used
+williewanker,,This is a profanity and should not be used
+willy,,This is a profanity and should not be used
+wn,,This is a profanity and should not be used
+wog,,This is a profanity and should not be used
+wogs,,This is a profanity and should not be used
+womens,,This is a profanity and should not be used
+wop,,This is a profanity and should not be used
+wtf,,This is a profanity and should not be used
+wuss,,This is a profanity and should not be used
+wuzzie,,This is a profanity and should not be used
+xkwe,,This is a profanity and should not be used
+xtc,,This is a profanity and should not be used
+xxx,,This is a profanity and should not be used
+yank,,This is a profanity and should not be used
+yankee,,This is a profanity and should not be used
+yankees,,This is a profanity and should not be used
+yanks,,This is a profanity and should not be used
+yarpie,,This is a profanity and should not be used
+yarpies,,This is a profanity and should not be used
+yellowman,,This is a profanity and should not be used
+yid,,This is a profanity and should not be used
+yids,,This is a profanity and should not be used
+zigabo,,This is a profanity and should not be used
+zigabos,,This is a profanity and should not be used
+zipperhead,,This is a profanity and should not be used
+zipperheads,,This is a profanity and should not be used
+master,"primary, lead, hub, reference","Avoid using the term `master`; these suggestions are for the computer term, but there are better alternatives for other cases too"
+masters,"primaries, hubs, references","Avoid using the term `master`; these suggestions are for the computer term, but there are better alternatives for other cases too"
+slave,"secondary, worker, replica, node","Avoid using the term `slave`; these suggestions are for the computer term, but there are better alternatives for other cases too"
+slaves,"secondaries, workers, replicas, nodes","Avoid using the term `slave`; these suggestions are for the computer term, but there are better alternatives for other cases too"
+blackhat,"unethical hacker, malicious actor",
+whitehat,"ethical hacker, security researcher",
+eskimo,Inuit,
+eskimos,Inuits,
+oriental,Asian person,
+orientals,Asian people,
+nonwhite,"person of color, people of color",
+non white,"person of color, people of color",
+ghetto,"projects, urban",
+red indian,Native American,
+pocahontas,Native American,
+redskin,Native American,
+red indians,Native American People,
+redskins,Native American People,
+animal spirit,"favorite, inspiration, personal interest, personality type",Avoid using terms that oversimplify the complex and varied beliefs of indigenous religions.
+dream catcher,"favorite, inspiration, personal interest, personality type",Avoid using terms that oversimplify the complex and varied beliefs of indigenous religions.
+spirit animal,"favorite, inspiration, personal interest, personality type",Avoid using terms that oversimplify the complex and varied beliefs of indigenous religions.
+totem,"favorite, inspiration, personal interest, personality type",Avoid using terms that oversimplify the complex and varied beliefs of indigenous religions.
+long time no hear,"I haven’t seen you in a long time, it’s been a long time",Avoid using phrases that implicitly mock people with limited knowledge of the English language.
+long time no see,"I haven’t seen you in a long time, it’s been a long time",Avoid using phrases that implicitly mock people with limited knowledge of the English language.
+Indian country,enemy territory,Avoid using phrases referring to the genocidal United States “Indian Removal” laws.
+jump the reservation,"disobey, endure, object to, oppose, resist",Avoid using phrases referring to the genocidal United States “Indian Removal” laws.
+off reserve,"disobey, endure, object to, oppose, resist",Avoid using phrases referring to the genocidal United States “Indian Removal” laws.
+off the reservation,"disobey, endure, object to, oppose, resist",Avoid using phrases referring to the genocidal United States “Indian Removal” laws.
+circle the wagons,defend,Avoid using phrases referring to colonial stereotypes regarding Native Americans.
+on the warpath,defend,Avoid using phrases referring to colonial stereotypes regarding Native Americans.
+too many chiefs,"too many chefs in the kitchen, too many cooks spoil the broth",Avoid using phrases referring to colonial stereotypes regarding Native Americans.
+natives are restless,"dissatisfied, frustrated",Avoid using phrases referring to colonial stereotypes regarding indigenous peoples.
+natives are becoming restless,"dissatisfied, frustrated",Avoid using phrases referring to colonial stereotypes regarding indigenous peoples.
+natives are getting restless,"dissatisfied, frustrated",Avoid using phrases referring to colonial stereotypes regarding indigenous peoples.
+natives are growing restless,"dissatisfied, frustrated",Avoid using phrases referring to colonial stereotypes regarding indigenous peoples.
+pow wow,"conference, gathering, meeting","Avoid casually using this term, which refers to traditional indigenous celebration ceremonies that were banned by genocidal laws in the United States and Canada — Native people died fighting for this right."
+powwow,"conference, gathering, meeting","Avoid casually using this term, which refers to traditional indigenous celebration ceremonies that were banned by genocidal laws in the United States and Canada — Native people died fighting for this right."
+indian give,go back on one’s offer,Avoid using phrases referring to colonial stereotypes regarding Native Americans.
+indian giver,go back on one’s offer,Avoid using phrases referring to colonial stereotypes regarding Native Americans.
+pinoys,"Filipinos, Filipino people",
+pinays,"Filipinos, Filipino people",
+towel heads,"Arabs, Middle Eastern People",
+latino,Latinx,"Whenever possible, try to be gender inclusive."
+latina,Latinx,"Whenever possible, try to be gender inclusive."
+japs,"Japanese person, Japanese people",
+shlomo,Jewish person,
+shyster,Jewish person,
+hymie,Jewish person,
+goyim,"a person who is not Jewish, not Jewish",
+goyum,"a person who is not Jewish, not Jewish",
+goy,"a person who is not Jewish, not Jewish",
+spade,a Black person,
+gyppo,"Nomad, Traveler, Roma, Romani","Gypsy is insensitive, use Roma or Romani. They’re not Egyptian as the name suggests."
+gypsy,"Nomad, Traveler, Roma, Romani","Gypsy is insensitive, use Roma or Romani. They’re not Egyptian as the name suggests."
+Gipsy,"Nomad, Traveler, Roma, Romani","Gypsy is insensitive, use Roma or Romani. They’re not Egyptian as the name suggests."
+gyp,"Nomad, Traveler, Roma, Romani","Gypsy is insensitive, use Roma or Romani. They’re not Egyptian as the name suggests."
+blacklist,"blocklist, wronglist, banlist, deny list",Replace racially-charged language with more accurate and inclusive words
+black list,"blocklist, wronglist, banlist, deny list",Replace racially-charged language with more accurate and inclusive words
+blacklisted,"blocklisted, wronglisted, banlisted, deny-listed",Replace racially-charged language with more accurate and inclusive words
+blacklisting,"blocklisting, wronglisting, banlisting, deny-listing",Replace racially-charged language with more accurate and inclusive words
+whitelist,"passlist, alrightlist, safelist, allow list",Replace racially-charged language with more accurate and inclusive words
+white list,"passlist, alrightlist, safelist, allow list",Replace racially-charged language with more accurate and inclusive words
+whitelisted,"passlisted, alrightlisted, safelisted, allow-listed",Replace racially-charged language with more accurate and inclusive words
+whitelisting,"passlisting, alrightlisting, safelisting, allow-listing",Replace racially-charged language with more accurate and inclusive words
+whitespace,"space, blank",Replace racially-charged language with more accurate and inclusive words
+white space,"space, blank",Replace racially-charged language with more accurate and inclusive words
+whitespaces,"space, blank",Replace racially-charged language with more accurate and inclusive words
+white spaces,"space, blank",Replace racially-charged language with more accurate and inclusive words
+primitive,"simple, indigenous, hunter-gatherer",Avoid using terms that imply a group has not changed over time and that they are inferior
+savage,"simple, indigenous, hunter-gatherer",Avoid using terms that imply a group has not changed over time and that they are inferior
+stone age,"simple, indigenous, hunter-gatherer",Avoid using terms that imply a group has not changed over time and that they are inferior
+tribe,"society, community",Avoid using terms that make some groups sound inferior
+sophisticated culture,complex culture,Avoid using terms that make some groups sound inferior. Replace “sophisticated” with a neutral term such as “complex”
+sophisticated technology,complex technology,Avoid using terms that make some groups sound inferior. Replace “sophisticated” with a neutral term such as “complex”
+bugreport,"bug report, snapshot","Avoid using `bugreport`, as the word `bugre` is a slur in Brazilian Portuguese"
+grandfather clause,"legacy policy, legacy clause, deprecation policy",Avoid using phrases referring to racist United States “Jim Crow” laws.
+grandfather policy,"legacy policy, legacy clause, deprecation policy",Avoid using phrases referring to racist United States “Jim Crow” laws.
+grandfathering,deprecate,Avoid using phrases referring to racist United States “Jim Crow” laws.
+grandfathered,"deprecated, legacy",Avoid using phrases referring to racist United States “Jim Crow” laws.
+committed suicide,died by suicide,
+completed suicide,died by suicide,
+commit suicide,die by suicide,"Committing suicide is not successful/unsuccessful, that sends the wrong message"
+complete suicide,die by suicide,"Committing suicide is not successful/unsuccessful, that sends the wrong message"
+successful suicide,die by suicide,"Committing suicide is not successful/unsuccessful, that sends the wrong message"
+suicide epidemic,rise in suicides,Using sensational words can cause copycat suicides or contagion
+epidemic of suicides,rise in suicides,Using sensational words can cause copycat suicides or contagion
+suicide pact,rise in suicides,Using sensational words can cause copycat suicides or contagion
+failed suicide,"suicide attempt, attempted suicide",Attempted suicide should not be depicted as a failure
+failed attempt,"suicide attempt, attempted suicide",Attempted suicide should not be depicted as a failure
+suicide failure,"suicide attempt, attempted suicide",Attempted suicide should not be depicted as a failure
+suicide note,a note from the deceased,
+hang,"the app froze, the app stopped responding, the app stopped responding to events, the app became unresponsive","When describing the behavior of computer software, using the word “hanged” needlessly invokes the topic of death by self-harm or lynching.  Consider using the word “froze” or the phrase “stopped responding to events” or “became unresponsive” instead."
+hanged,"the app froze, the app stopped responding, the app stopped responding to events, the app became unresponsive","When describing the behavior of computer software, using the word “hanged” needlessly invokes the topic of death by self-harm or lynching.  Consider using the word “froze” or the phrase “stopped responding to events” or “became unresponsive” instead."
