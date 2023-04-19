@@ -1,2 +1,3 @@
 # requirements.txt
-pandas
+nltk==3.6.5
+
