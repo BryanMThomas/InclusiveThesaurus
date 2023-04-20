@@ -3,6 +3,7 @@ import csv
 import json
 import re
 from nltk import download
+from nltk.tokenize import word_tokenize
 
 # Download the NLTK data needed for tokenization
 download('punkt')
@@ -28,8 +29,11 @@ def find_non_inclusive_terms(text, terms_dict):
 
     for term in terms_dict:
         pattern = r'\b' + re.escape(term) + r'\b'
-        if re.search(pattern, text, re.IGNORECASE) and term not in added_terms:
-            found_terms.append({'term': term, **terms_dict[term]})
+        matches = list(re.finditer(pattern, text, re.IGNORECASE))
+        
+        if matches and term not in added_terms:
+            positions = [match.start() for match in matches]
+            found_terms.append({'term': term, 'positions': positions, **terms_dict[term]})
             added_terms.add(term)
 
     return found_terms
